@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Lei Li - Postdoctoral scholar
+title:  Postdoctoral scholar
 subtitle: Department of Medicine, University of Chicago
 ---
 
