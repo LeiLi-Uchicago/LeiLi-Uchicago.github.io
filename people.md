@@ -9,14 +9,14 @@ test1:
     url: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     github: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     twitter: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
- - name: name1 name1
+  - name: name1 name1
     img: ../../img/librator.png
     desc: sdsdsdsdsd.
     website: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     url: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     github: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     twitter: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
- - name: name1 name1
+  - name: name1 name1
     img: ../../img/librator.png
     desc: sdsdsdsdsd.
     website: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
@@ -31,14 +31,14 @@ test2:
     url: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     github: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     twitter: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
- - name: name1 name1
+  - name: name1 name1
     img: ../../img/vgenes.png
     desc: sdsdsdsdsd.
     website: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     url: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     github: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     twitter: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
- - name: name1 name1
+  - name: name1 name1
     img: ../../img/vgenes.png
     desc: sdsdsdsdsd.
     website: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
@@ -53,14 +53,14 @@ test3:
     url: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     github: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     twitter: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
- - name: name1 name1
+  - name: name1 name1
     img: ../../img/workflow.png
     desc: sdsdsdsdsd.
     website: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     url: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     github: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     twitter: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
- - name: name1 name1
+  - name: name1 name1
     img: ../../img/workflow.png
     desc: sdsdsdsdsd.
     website: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
