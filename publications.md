@@ -49,9 +49,6 @@ Zhang, Xiaojian; Cunningham, Fred L; **Li, Lei**; Hanson-Dorr, Katie; Liu, Liyua
 Guthmiller, Jenna J; Lan, Linda Yu-Ling; Fernández-Quintero, Monica L; Han, Julianna; Utset, Henry A; Bitar, Dalia J; Hamel, Natalie J; Stovicek, Olivia; **Li, Lei**; Tepora, Micah; 	*Polyreactive Broadly Neutralizing B cells Are Selected to Provide Defense against Pandemic Threat Influenza Viruses*	**_Immunity_**	2020
 
 <img src="../../img/PRE-PRINT.png" height="20px"> 
-**Li, Lei**; Huang, Min; Henry, Carole; Zheng, Nai-Ying; Chen, Yao-Qing; McNair, Mahalia; Meade, Philip; Guthmiller, Jenna; Dugan, Haley; Tepora, Micah; 	*Understanding memory B cell responses to a chimeric-based universal influenza virus vaccine candidate*	**_Pre-print_**	2020
-
-<img src="../../img/PRE-PRINT.png" height="20px"> 
 Stamper, C; Dugan, H; Li, L; Asby, N; Halfmann, P; Guthmiller, J; Zheng, N; Huang, M; Stovicek, O; Wang, J; 	*Distinct B cell subsets give rise to antigen-specific antibody responses against SARS-CoV-2*	**_Research Squareresearch Square_**	2020
 
 ## 2019 
