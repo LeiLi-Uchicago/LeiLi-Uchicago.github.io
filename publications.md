@@ -91,7 +91,7 @@ Huang, Guangzao; Yuan, Mingshun; Chen, Moliang; **Li, Lei**; You, Wenjie; Li, Ha
 
 ## 2016
 
-<img src="../../img/journal-article.png" height="20px"> 
+<img src="../../img/conference.png" height="20px"> 
 **Li, Lei**; Han, Lei; Wan, Xiu-feng; 	*Identification of glycosylation sites and mutations determining antigenic drift events for influenza A viruses using sparse group lasso regression*	**_GLYCOBIOLOGY_**	2016
 
 ## 2015
