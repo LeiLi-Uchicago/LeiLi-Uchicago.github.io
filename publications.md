@@ -9,6 +9,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2021
 
+<img src="../../img/PRE-PRINT.png" height="20px"> 
+**Lei Li**, Olivia Stovicek, Jenna J. Guthmiller, Siriruk Changrob, Yanbin Fu, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C Wilson; 	*Librator, a platform for optimized sequence editing, design, and expression of influenza virus proteins*	**_bioRxiv_**	2021 [Preprint→](https://www.biorxiv.org/content/10.1101/2021.04.29.441999v1)
+
 <img src="../../img/journal-article.png" height="20px"> 
 Guthmiller, Jenna J; Stovicek, Olivia; Wang, Jiaolong; Changrob, Siriruk; **Li, Lei**; Halfmann, Peter; Zheng, Nai-Ying; Utset, Henry; Stamper, Christopher T; Dugan, Haley L; 	*SARS-CoV-2 infection severity is linked to superior humoral immunity against the spike*	**_MBio_**	2021
 
