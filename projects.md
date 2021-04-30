@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Presentations
+title: Projects
 ---
 
-Ongoing projects
+## Ongoing projects
 
 ---
 
