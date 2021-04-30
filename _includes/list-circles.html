@@ -1,6 +1,6 @@
 <div class="list-circles">
   {% for item in include.items %}
-    <div class="list-circles-item">
+    <div class="list-circles-item" style="display: inline-block; width: 200px;">
       {% if item.img %}
         {% if item.url %}
           <a href="{{ item.url }}"><img src="{{ item.img }}" class="item-img" height="150px"/></a>
