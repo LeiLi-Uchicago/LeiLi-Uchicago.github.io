@@ -33,11 +33,11 @@ _Automation_
 
 
 ## RESEARCH INTERESTS
--Computational methods of single cell sequencing data 
--Single cell sequencing data interpretation and visualization
--Genetics and Evolution methods and their application
--Biological/medical data interpretation and visualization
--Bio-statistical methods and their application
+- Computational methods of single cell sequencing data 
+- Single cell sequencing data interpretation and visualization
+- Genetics and Evolution methods and their application
+- Biological/medical data interpretation and visualization
+- Bio-statistical methods and their application
 
 
 ## Contact
