@@ -6,45 +6,37 @@ subtitle: Department of Medicine, University of Chicago
 
 ## EDUCATION
 
-Xiamen University , Xiamen, China , 2011 - 2015
-**Ph.D.**
+Xiamen University , Xiamen, China , 2011 - 2015 <br>
+**Ph.D.** 
 _System Engineering/Bioinformatics_
 
-Xi’an Jiaotong University , Xi’an, China , 2009 - 2011
+Xi’an Jiaotong University , Xi’an, China , 2009 - 2011 <br>
 **M.S.** 
 _Control Engineering/Natural Language Processing_
 
-Xi’an Jiaotong University , Xi’an, China , 2005 - 2009
+Xi’an Jiaotong University , Xi’an, China , 2005 - 2009 <br>
 **B.S.** 
 _Automation_	
 
 ## PROFESSIONAL EXPERIENCE
 03/2019 – now 		
-
-Postdoctoral scholar, Department of Medicine, University of Chicago	
+**Postdoctoral scholar**, Department of Medicine, University of Chicago	
 
 08/2015 – 08/2018 	
-
-Postdoctoral scholar, College of Veterinary Medicine, Miss. State University
+**Postdoctoral scholar**, College of Veterinary Medicine, Miss. State University
 
 04/2013 - 06/2014 	
-
-Visiting scholar, Department of Botany, Miami University	 
+**Visiting scholar**, Department of Botany, Miami University	 
 
 09/2011 - 06/2015 	
-
-Ph.D. student, Department of Automation, Xiamen University
+**Ph.D. student**, Department of Automation, Xiamen University
 
 
 ## RESEARCH INTERESTS
 Computational methods of single cell sequencing data 
-
 Single cell sequencing data interpretation and visualization
-
 Genetics and Evolution methods and their application
-
 Biological/medical data interpretation and visualization
-
 Bio-statistical methods and their application
 
 
