@@ -5,6 +5,8 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en). 
 
+\# equal contribution 
+
 ## 2021
 
 <img src="../../img/journal-article.png" height="20px"> 
@@ -17,13 +19,13 @@ Guthmiller, Jenna J; Han, Julianna; **Li, Lei**; Freyn, Alec W; Liu, Sean TH; St
 Surette, Fionna A; Guthmiller, Jenna J; **Li, Lei**; Sturtz, Alexandria J; Vijay, Rahul; Pope, Rosemary L; McClellan, Brandon L; Pack, Angela D; Zander, Ryan A; Shao, Peng; 	*Extrafollicular CD4 T cell-derived IL-10 functions rapidly and transiently to support anti-Plasmodium humoral immunity*	**_PLoS Pathogens_**	2021
 
 <img src="../../img/PRE-PRINT.png" height="20px"> 
-Dugan, Haley L; Stamper, Christopher; **Li, Lei**; Changrob, Siriruk; Asby, Nicholas; Halfmann, Peter; Zheng, Nai-Ying; Huang, Min; Shaw, Dustin G; Cobb, Mari; 	*COVID-19 Infection Induces Substantial Memory B Cell Maturation to Non-Neutralizing Viral Targets*	**_Pre-print_**	2021
+#Dugan, Haley L; #Stamper, Christopher; **#Li, Lei**; Changrob, Siriruk; Asby, Nicholas; Halfmann, Peter; Zheng, Nai-Ying; Huang, Min; Shaw, Dustin G; Cobb, Mari; 	*COVID-19 Infection Induces Substantial Memory B Cell Maturation to Non-Neutralizing Viral Targets*	**_Pre-print_**	2021
 
 <img src="../../img/PRE-PRINT.png" height="20px"> 
 Guthmiller, Jenna J; Han, Julianna; Utset, Henry A; **Li, Lei**; Lan, Linda Yu-Ling; Henry, Carole; Stamper, Christopher T; Stovicek, Olivia; Gentles, Lauren; Dugan, Haley L; 	*A public broadly neutralizing antibody class targets a membrane-proximal anchor epitope of influenza virus hemagglutinin*	**_bioRxiv_**	2021
 
 <img src="../../img/PRE-PRINT.png" height="20px"> 
-**Li, Lei**; Dugan, Haley L; Stamper, Christopher; Lan, Linda Yu-Ling; Asby, Nicholas; Knight, Matthew; Stovicek, Olivia; Zheng, Nai-Ying; Madariaga, Maria Lucia; Shanmugarajah, Kumaran; 	*Integration of Transcriptome and Cell Surface Protein Expression by LinQ-View Identifies Unique Immune Subpopulations*	**_Pre-print_**	2021
+**#Li, Lei**; #Dugan, Haley L; #Stamper, Christopher; Lan, Linda Yu-Ling; Asby, Nicholas; Knight, Matthew; Stovicek, Olivia; Zheng, Nai-Ying; Madariaga, Maria Lucia; Shanmugarajah, Kumaran; 	*Integration of Transcriptome and Cell Surface Protein Expression by LinQ-View Identifies Unique Immune Subpopulations*	**_Pre-print_**	2021
 
 <img src="../../img/PRE-PRINT.png" height="20px"> 
 Guthmiller, Jenna J; Utset, Henry A; Henry, Carole; **Li, Lei**; Zheng, Nai-Ying; Sun, Weina; Vieira, Marcos C; Zost, Seth; Huang, Min; Hensley, Scott E; 	*An egg-derived sulfated N-Acetyllactosamine glycan is an antigenic decoy of influenza virus vaccines*	**_bioRxiv_**	2021
@@ -65,7 +67,7 @@ Krammer, Florian; **Li, Lei**; Wilson, Patrick C; 	*Emerging from the shadow of 
 ## 2018
 
 <img src="../../img/journal-article.png" height="20px"> 
-Kosikova, Martina; **Li, Lei**; Radvak, Peter; Ye, Zhiping; Wan, Xiu-Feng; Xie, Hang; 	*Imprinting of repeated influenza A/H3 exposures on antibody quantity and antibody quality: implications for seasonal vaccine strain selection and vaccine performance*	**_Clinical infectious diseases_**	2018
+#Kosikova, Martina; **#Li, Lei**; Radvak, Peter; Ye, Zhiping; Wan, Xiu-Feng; Xie, Hang; 	*Imprinting of repeated influenza A/H3 exposures on antibody quantity and antibody quality: implications for seasonal vaccine strain selection and vaccine performance*	**_Clinical infectious diseases_**	2018
 
 <img src="../../img/journal-article.png" height="20px"> 
 **Li, Lei**; Bowman, Andrew S; DeLiberto, Thomas J; Killian, Mary L; Krauss, Scott; Nolting, Jacqueline M; Torchetti, Mia Kim; Ramey, Andrew M; Reeves, Andrew B; Stallknecht, David E; 	*Genetic evidence supports sporadic and independent introductions of subtype H5 low-pathogenic avian influenza A viruses from wild birds to domestic poultry in North America*	**_Journal of virology_**	2018
@@ -74,7 +76,7 @@ Kosikova, Martina; **Li, Lei**; Radvak, Peter; Ye, Zhiping; Wan, Xiu-Feng; Xie, 
 **Li, Lei**; DeLiberto, Thomas J; Killian, Mary L; Torchetti, Mia K; Wan, Xiu-Feng; 	*Evolutionary pathway for the 2017 emergence of a novel highly pathogenic avian influenza A (H7N9) virus among domestic poultry in Tennessee, United States*	**_Virology_**	2018
 
 <img src="../../img/journal-article.png" height="20px"> 
-Zhang, Xiaojian; Sun, Hailiang; Cunningham, Fred L; **Li, Lei**; Hanson-Dorr, Katie; Hopken, Matthew W; Cooley, Jim; Long, Li-Ping; Baroch, John A; Li, Tao; 	*Tissue tropisms opt for transmissible reassortants during avian and swine influenza A virus co-infection in swine*	**_PLoS pathogens_**	2018
+#Zhang, Xiaojian; #Sun, Hailiang; #Cunningham, Fred L; **#Li, Lei**; Hanson-Dorr, Katie; Hopken, Matthew W; Cooley, Jim; Long, Li-Ping; Baroch, John A; Li, Tao; 	*Tissue tropisms opt for transmissible reassortants during avian and swine influenza A virus co-infection in swine*	**_PLoS pathogens_**	2018
 
 ## 2017
 
