@@ -2,9 +2,9 @@
 title: People
 subtitle: The humans behind this project
 test1:
-  - name: name1 name1
-    img: ../../img/librator.png
-    desc: sdsdsdsdsd.
+  - name: Lei Li
+    img: ../../img/lei.png
+    desc: Recent work focuses on developing novel computational algorithms for single cell multi-modal data processing and applying bioinformatics approaches to the study of B cell biology. Recent work focuses on developing novel computational algorithms for single cell multi-modal data processing and applying bioinformatics approaches to the study of B cell biology.
     website: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     url: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
     github: https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en
