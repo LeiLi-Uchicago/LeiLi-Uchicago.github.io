@@ -2,6 +2,8 @@
 layout: page
 title:  Postdoctoral scholar
 subtitle: Department of Medicine, University of Chicago
+cover-img:
+  - "./img/star.png"
 ---
 
 ## EDUCATION
