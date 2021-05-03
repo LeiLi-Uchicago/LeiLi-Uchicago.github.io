@@ -1,11 +1,11 @@
 <div class="list-circles">
   {% for item in include.items %}
-    <div class="list-circles-item" style="display: inline-block; width: 200px;">
+    <div class="list-circles-item">
       {% if item.img %}
         {% if item.url %}
-          <a href="{{ item.url }}"><img src="{{ item.img }}" class="item-img" height="150px"/></a>
+          <a href="{{ item.url }}"><img src="{{ item.img }}" class="item-img"/></a>
         {% else %}
-          <img src="{{ item.img }}" class="item-img" height="150px"/>
+          <img src="{{ item.img }}" class="item-img"/>
         {% endif %}
       {% endif %}
       {% if item.name %}
