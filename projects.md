@@ -11,7 +11,7 @@ title: Projects
 
 <img align="left" src="../../img/vgenes.png" height="150px">
 
- VGenes is integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences 
+ VGenes is an integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences 
 
  Github page: N/A
 
@@ -35,7 +35,7 @@ title: Projects
 
 <img align="left" src="../../img/linklogo.png" height="150px">
 
- Librator is a a joint single cell analysis strategy that could integrate RNA and ADT profiles for cell heterogeneity identification.
+ Librator is a joint single cell analysis strategy that could integrate RNA and ADT profiles for cell heterogeneity identification.
 
  Github page: [LinQ-View](https://github.com/WilsonImmunologyLab/LinQView)
 
