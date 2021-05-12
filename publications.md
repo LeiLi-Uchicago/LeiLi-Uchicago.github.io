@@ -9,6 +9,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2021
 
+<img src="../../img/journal-article.png" height="20px"> 
+#Dugan, Haley L; #Stamper, Christopher; **#Li, Lei**; Changrob, Siriruk; Asby, Nicholas; Halfmann, Peter; Zheng, Nai-Ying; Huang, Min; Shaw, Dustin G; Cobb, Mari; 	*Profiling B cell immunodominance after SARS-CoV-2 infection reveals antibody evolution to non-neutralizing viral targets*	**_Immunity_**	2021 [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1074761321001989)
+
 <img src="../../img/PRE-PRINT.png" height="20px"> 
 **Lei Li**, Olivia Stovicek, Jenna J. Guthmiller, Siriruk Changrob, Yanbin Fu, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C Wilson; 	*Librator, a platform for optimized sequence editing, design, and expression of influenza virus proteins*	**_bioRxiv_**	2021 [Preprint→](https://www.biorxiv.org/content/10.1101/2021.04.29.441999v1)
 
@@ -20,9 +23,6 @@ Guthmiller, Jenna J; Han, Julianna; **Li, Lei**; Freyn, Alec W; Liu, Sean TH; St
 
 <img src="../../img/journal-article.png" height="20px"> 
 Surette, Fionna A; Guthmiller, Jenna J; **Li, Lei**; Sturtz, Alexandria J; Vijay, Rahul; Pope, Rosemary L; McClellan, Brandon L; Pack, Angela D; Zander, Ryan A; Shao, Peng; 	*Extrafollicular CD4 T cell-derived IL-10 functions rapidly and transiently to support anti-Plasmodium humoral immunity*	**_PLoS Pathogens_**	2021 [PLoS Pathogens](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009288)
-
-<img src="../../img/PRE-PRINT.png" height="20px"> 
-#Dugan, Haley L; #Stamper, Christopher; **#Li, Lei**; Changrob, Siriruk; Asby, Nicholas; Halfmann, Peter; Zheng, Nai-Ying; Huang, Min; Shaw, Dustin G; Cobb, Mari; 	*COVID-19 Infection Induces Substantial Memory B Cell Maturation to Non-Neutralizing Viral Targets*	**_Pre-print_**	2021 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3790898)
 
 <img src="../../img/PRE-PRINT.png" height="20px"> 
 Guthmiller, Jenna J; Han, Julianna; Utset, Henry A; **Li, Lei**; Lan, Linda Yu-Ling; Henry, Carole; Stamper, Christopher T; Stovicek, Olivia; Gentles, Lauren; Dugan, Haley L; 	*A public broadly neutralizing antibody class targets a membrane-proximal anchor epitope of influenza virus hemagglutinin*	**_bioRxiv_**	2021 [Preprint→](https://www.biorxiv.org/content/10.1101/2021.02.25.432905v1.full)
