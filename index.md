@@ -6,6 +6,13 @@ cover-img:
   - "./img/star.png"
 ---
 
+<style type="text/css">
+.intro-header .page-heading h1 {
+  margin-top: 0;
+  font-size: 3.125rem;
+}
+</style>
+
 ## PROFESSIONAL EXPERIENCE
 03/2019 – now 		<br>
 **Postdoctoral scholar**, Department of Medicine, University of Chicago	
