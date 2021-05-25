@@ -14,7 +14,6 @@ author: Lei Li
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "index"
   Projects: "projects"
   Publications: "publications"
   Presentations: "presentations"

@@ -1,24 +1,10 @@
 ---
 layout: page
-title:  Postdoctoral scholar
+title:  Lei Li - Postdoctoral scholar
 subtitle: Department of Medicine, University of Chicago
 cover-img:
   - "./img/star.png"
 ---
-
-## EDUCATION
-
-Xiamen University , Xiamen, China , 2011 - 2015 <br>
-**Ph.D.** 
-_System Engineering/Bioinformatics_
-
-Xi’an Jiaotong University , Xi’an, China , 2009 - 2011 <br>
-**M.S.** 
-_Control Engineering/Natural Language Processing_
-
-Xi’an Jiaotong University , Xi’an, China , 2005 - 2009 <br>
-**B.S.** 
-_Automation_	
 
 ## PROFESSIONAL EXPERIENCE
 03/2019 – now 		<br>
@@ -42,7 +28,21 @@ _Automation_
 - Bio-statistical methods and their application
 
 
-## Contact
+## EDUCATION
+
+Xiamen University , Xiamen, China , 2011 - 2015 <br>
+**Ph.D.** 
+_System Engineering/Bioinformatics_
+
+Xi’an Jiaotong University , Xi’an, China , 2009 - 2011 <br>
+**M.S.** 
+_Control Engineering/Natural Language Processing_
+
+Xi’an Jiaotong University , Xi’an, China , 2005 - 2009 <br>
+**B.S.** 
+_Automation_	
+
+## CONTACT
 
 ```
 924 E 57th St
@@ -53,7 +53,7 @@ Office: UChicago BSLC
 Email: leil[at]uchicago.edu or leilioxford[at]gmail.com
 ```
 
-## Projects
+## RECENT PROJECTS
 
 - VGenes: an integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences.
 - [Librator](https://wilsonimmunologylab.github.io/Librator/): a platform for optimized sequence editing, design, and expression of influenza virus proteins.
