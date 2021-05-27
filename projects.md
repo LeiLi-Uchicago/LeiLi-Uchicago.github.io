@@ -14,6 +14,7 @@ title: Projects
     padding-top: 35px;
     height: 0;
     overflow: hidden;
+    border-style: inset;
 }
 
 .web-container iframe {
