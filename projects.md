@@ -7,6 +7,25 @@ title: Projects
 
 ---
 
+<style type="text/css">
+.web-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.web-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+</style>
+
 ### VGenes
 
 <img align="left" src="../../img/vgenes.png" height="150px">
@@ -29,6 +48,11 @@ title: Projects
 
  Paper:  [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.04.29.441999v1)
 
+
+<div class="web-container">
+    <iframe src="https://wilsonimmunologylab.github.io/Librator/" height="500" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
 ---
 
 ### LinQ-View
@@ -41,6 +65,10 @@ title: Projects
 
  Paper:  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3797273)
 
+<div class="web-container">
+    <iframe src="https://wilsonimmunologylab.github.io/LinQView/" height="500" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
 ---
 
 ### Cookie
@@ -52,3 +80,8 @@ title: Projects
  Github page: [Cookie](https://wilsonimmunologylab.github.io/Cookie/)
 
  Paper:  N/A
+
+ <div class="web-container">
+    <iframe src="https://wilsonimmunologylab.github.io/Cookie/" height="500" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
