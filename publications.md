@@ -48,7 +48,7 @@ Hu, Meng; Yang, Guohua; DeBeauchamp, Jennifer; Crumpton, Jeri Carol; Kim, Hyunsu
 Knight, Matthew; Changrob, Siriruk; **Li, Lei**; Wilson, Patrick C; 	*Imprinting, immunodominance, and other impediments to generating broad influenza immunity*	**_Immunological Reviews_**	2020 [Wiley](https://onlinelibrary.wiley.com/doi/full/10.1111/imr.12900)
 
 <img src="../../img/journal-article.png" height="20px"> 
-Zhang, Xiaojian; Cunningham, Fred L; **Li, Lei**; Hanson-Dorr, Katie; Liu, Liyuan; Waters, Kaitlyn; Guan, Minhui; Olivier, Alicia K; Schmit, Brandon S; Nolting, Jacqueline M; 	*Tissue tropisms of avian influenza A viruses affect their spillovers from wild birds to pigs*	**_Journal of Virology_**	2020 [JVI](https://jvi.asm.org/content/94/24/e00847-20)
+Zhang, Xiaojian; Cunningham, Fred L; **Li, Lei**; Hanson-Dorr, Katie; Liu, Liyuan; Waters, Kaitlyn; Guan, Minhui; Olivier, Alicia K; Schmit, Brandon S; Nolting, Jacqueline M; 	*Tissue tropisms of avian influenza A viruses affect their spillovers from wild birds to pigs*	**_Journal of Virology_**	2020 [JVI](https://journals.asm.org/doi/10.1128/JVI.00847-20?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
 <img src="../../img/journal-article.png" height="20px"> 
 Guthmiller, Jenna J; Lan, Linda Yu-Ling; Fernández-Quintero, Monica L; Han, Julianna; Utset, Henry A; Bitar, Dalia J; Hamel, Natalie J; Stovicek, Olivia; **Li, Lei**; Tepora, Micah; 	*Polyreactive Broadly Neutralizing B cells Are Selected to Provide Defense against Pandemic Threat Influenza Viruses*	**_Immunity_**	2020 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33096040/)
