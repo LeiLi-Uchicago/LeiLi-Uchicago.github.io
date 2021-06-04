@@ -18,8 +18,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 <img src="../../img/journal-article.png" height="20px"> 
 Guthmiller, Jenna J; Stovicek, Olivia; Wang, Jiaolong; Changrob, Siriruk; **Li, Lei**; Halfmann, Peter; Zheng, Nai-Ying; Utset, Henry; Stamper, Christopher T; Dugan, Haley L; 	*SARS-CoV-2 infection severity is linked to superior humoral immunity against the spike*	**_MBio_**	2021 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32935099/)
 
-<img src="../../img/PRE-PRINT.png" height="20px"> 
-Guthmiller, Jenna J; Han, Julianna; **Li, Lei**; Freyn, Alec W; Liu, Sean TH; Stovicek, Olivia; Stamper, Christopher; Dugan, Haley L; Tepora, Micah E; Bitar, Dalia J; 	*Broadly Neutralizing Antibodies Against Conserved Epitopes of the Hemagglutinin Head are Robustly Recalled by a Novel H1N1 Virus*	**_Pre-print_**	2021 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3736401)
+<img src="../../img/journal-article.png" height="20px"> 
+Guthmiller, Jenna J; Han, Julianna; **Li, Lei**; Freyn, Alec W; Liu, Sean TH; Stovicek, Olivia; Stamper, Christopher; Dugan, Haley L; Tepora, Micah E; Bitar, Dalia J; 	*First exposure to the pandemic H1N1 virus induced broadly neutralizing antibodies targeting hemagglutinin head epitopes*	**_Science Translational Medicine_**	2021 Vol. 13, Issue 596, eabg4535. DOI: 10.1126/scitranslmed.abg4535 [Science Translational Medicine](https://stm.sciencemag.org/content/13/596/eabg4535)
 
 <img src="../../img/journal-article.png" height="20px"> 
 Surette, Fionna A; Guthmiller, Jenna J; **Li, Lei**; Sturtz, Alexandria J; Vijay, Rahul; Pope, Rosemary L; McClellan, Brandon L; Pack, Angela D; Zander, Ryan A; Shao, Peng; 	*Extrafollicular CD4 T cell-derived IL-10 functions rapidly and transiently to support anti-Plasmodium humoral immunity*	**_PLoS Pathogens_**	2021 [PLoS Pathogens](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009288)
