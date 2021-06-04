@@ -54,7 +54,7 @@ Librator is a platform for optimized sequence editing, design, and expression of
 
 ### LinQ-View
 
-Librator is a joint single cell analysis strategy that could integrate RNA and ADT profiles for cell heterogeneity identification.
+LinQ-View is a single cell analysis strategy that could integrate RNA and ADT profiles for cell heterogeneity identification.
 
 *Github page*: [LinQ-View](https://github.com/WilsonImmunologyLab/LinQView)
 
