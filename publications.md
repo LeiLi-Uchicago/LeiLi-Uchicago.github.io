@@ -26,6 +26,9 @@ Guthmiller, Jenna J; Han, Julianna; **Li, Lei**; Freyn, Alec W; Liu, Sean TH; St
 <img src="../../img/journal-article.png" height="20px"> 
 Surette, Fionna A; Guthmiller, Jenna J; **Li, Lei**; Sturtz, Alexandria J; Vijay, Rahul; Pope, Rosemary L; McClellan, Brandon L; Pack, Angela D; Zander, Ryan A; Shao, Peng; 	*Extrafollicular CD4 T cell-derived IL-10 functions rapidly and transiently to support anti-Plasmodium humoral immunity*	**_PLoS Pathogens_**	2021 [PLoS Pathogens](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009288)
 
+<img src="../../img/journal-article.png" height="20px"> 
+Lee, Dong-Hun, Mary Lea Killian, Thomas J. Deliberto, Xiu-Feng Wan, **Li Lei**, David E. Swayne, and Mia Kim Torchetti. *H7N1 Low Pathogenicity Avian Influenza Viruses in Poultry in the United States During 2018*. **_Avian Diseases_** 65, no. 1 (2021): 59-62. [Avian Diseases](https://meridian.allenpress.com/avian-diseases/article-abstract/65/1/59/445119/H7N1-Low-Pathogenicity-Avian-Influenza-Viruses-in)
+
 <img src="../../img/PRE-PRINT.png" height="20px"> 
 Guthmiller, Jenna J; Han, Julianna; Utset, Henry A; **Li, Lei**; Lan, Linda Yu-Ling; Henry, Carole; Stamper, Christopher T; Stovicek, Olivia; Gentles, Lauren; Dugan, Haley L; 	*A public broadly neutralizing antibody class targets a membrane-proximal anchor epitope of influenza virus hemagglutinin*	**_bioRxiv_**	2021 [Preprint→](https://www.biorxiv.org/content/10.1101/2021.02.25.432905v1.full)
 
@@ -51,9 +54,6 @@ Zhang, Xiaojian; Cunningham, Fred L; **Li, Lei**; Hanson-Dorr, Katie; Liu, Liyua
 
 <img src="../../img/journal-article.png" height="20px"> 
 Guthmiller, Jenna J; Lan, Linda Yu-Ling; Fernández-Quintero, Monica L; Han, Julianna; Utset, Henry A; Bitar, Dalia J; Hamel, Natalie J; Stovicek, Olivia; **Li, Lei**; Tepora, Micah; 	*Polyreactive Broadly Neutralizing B cells Are Selected to Provide Defense against Pandemic Threat Influenza Viruses*	**_Immunity_**	2020 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33096040/)
-
-<img src="../../img/PRE-PRINT.png" height="20px"> 
-#Stamper, C; #Dugan, H; **#Li, L**; Asby, N; Halfmann, P; Guthmiller, J; Zheng, N; Huang, M; Stovicek, O; Wang, J; 	*Distinct B cell subsets give rise to antigen-specific antibody responses against SARS-CoV-2*	**_Research Squareresearch Square_**	2020 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32995763/)
 
 <img src="../../img/journal-article.png" height="20px"> 
 Lee, Dong-hun, Mary Lea Killian, Thomas J. Deliberto, Xiu-Feng Wan, **Li Lei**, David E. Swayne, and Mia Kim Torchetti. *H7N1 low pathogenicity avian influenza virus in poultry, United States, 2018* **_Avian Diseases_** 2020 [Avian Diseases](https://meridian.allenpress.com/avian-diseases/article-abstract/65/1/59/445119/H7N1-Low-Pathogenicity-Avian-Influenza-Viruses-in?redirectedFrom=fulltext)
