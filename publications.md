@@ -8,6 +8,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 \# equal contribution 
 
 ## 2021
+<img src="../../img/journal-article.png" height="20px"> 
+Guthmiller, Jenna J; Utset, Henry A; Henry, Carole; **Li, Lei**; Zheng, Nai-Ying; Sun, Weina; Vieira, Marcos C; Zost, Seth; Huang, Min; Hensley, Scott E; 	*An egg-derived sulfated N-Acetyllactosamine glycan is an antigenic decoy of influenza virus vaccines*	**_Mbio_**	12, no. 3 (2021): e00838-21. [Preprint→](https://journals.asm.org/doi/full/10.1128/mBio.00838-21)
 
 <img src="../../img/journal-article.png" height="20px"> 
 #Dugan, Haley L; #Stamper, Christopher; **#Li, Lei**; Changrob, Siriruk; Asby, Nicholas; Halfmann, Peter; Zheng, Nai-Ying; Huang, Min; Shaw, Dustin G; Cobb, Mari; 	*Profiling B cell immunodominance after SARS-CoV-2 infection reveals antibody evolution to non-neutralizing viral targets*	**_Immunity_**	2021 [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1074761321001989)
@@ -29,9 +31,6 @@ Guthmiller, Jenna J; Han, Julianna; Utset, Henry A; **Li, Lei**; Lan, Linda Yu-L
 
 <img src="../../img/PRE-PRINT.png" height="20px"> 
 **#Li, Lei**; #Dugan, Haley L; #Stamper, Christopher; Lan, Linda Yu-Ling; Asby, Nicholas; Knight, Matthew; Stovicek, Olivia; Zheng, Nai-Ying; Madariaga, Maria Lucia; Shanmugarajah, Kumaran; 	*Integration of Transcriptome and Cell Surface Protein Expression by LinQ-View Identifies Unique Immune Subpopulations*	**_Pre-print_**	2021 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3797273)
-
-<img src="../../img/PRE-PRINT.png" height="20px"> 
-Guthmiller, Jenna J; Utset, Henry A; Henry, Carole; **Li, Lei**; Zheng, Nai-Ying; Sun, Weina; Vieira, Marcos C; Zost, Seth; Huang, Min; Hensley, Scott E; 	*An egg-derived sulfated N-Acetyllactosamine glycan is an antigenic decoy of influenza virus vaccines*	**_bioRxiv_**	2021 [Preprint→](https://www.biorxiv.org/content/10.1101/2021.03.16.435673v1)
 
 <img src="../../img/journal-article.png" height="20px"> 
 Vijay, Rahul; Guthmiller, Jenna J; Sturtz, Alexandria J; Crooks, Sequoia; Johnson, Jordan T; **Li, Lei**; Lan, Linda Yu-Ling; Pope, Rosemary L; Chen, Yani; Rogers, Kai J; 	*Hemolysis-associated phosphatidylserine exposure promotes polyclonal plasmablast differentiation*	**_Journal of Experimental Medicine_**	2021 [JEM](https://rupress.org/jem/article/218/6/e20202359/211959/Hemolysis-associated-phosphatidylserine-exposure)
