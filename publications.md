@@ -9,7 +9,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2021
 <img src="../../img/journal-article.png" height="20px"> 
-Guthmiller, Jenna J; Utset, Henry A; Henry, Carole; **Li, Lei**; Zheng, Nai-Ying; Sun, Weina; Vieira, Marcos C; Zost, Seth; Huang, Min; Hensley, Scott E; 	*An egg-derived sulfated N-Acetyllactosamine glycan is an antigenic decoy of influenza virus vaccines*	**_Mbio_**	12, no. 3 (2021): e00838-21. [Preprint→](https://journals.asm.org/doi/full/10.1128/mBio.00838-21)
+Guthmiller, Jenna J; Utset, Henry A; Henry, Carole; **Li, Lei**; Zheng, Nai-Ying; Sun, Weina; Vieira, Marcos C; Zost, Seth; Huang, Min; Hensley, Scott E; 	*An egg-derived sulfated N-Acetyllactosamine glycan is an antigenic decoy of influenza virus vaccines*	**_Mbio_**	12, no. 3 (2021): e00838-21. [ASM Journals](https://journals.asm.org/doi/full/10.1128/mBio.00838-21)
 
 <img src="../../img/journal-article.png" height="20px"> 
 #Dugan, Haley L; #Stamper, Christopher; **#Li, Lei**; Changrob, Siriruk; Asby, Nicholas; Halfmann, Peter; Zheng, Nai-Ying; Huang, Min; Shaw, Dustin G; Cobb, Mari; 	*Profiling B cell immunodominance after SARS-CoV-2 infection reveals antibody evolution to non-neutralizing viral targets*	**_Immunity_**	2021 [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1074761321001989)
