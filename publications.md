@@ -55,8 +55,6 @@ Zhang, Xiaojian; Cunningham, Fred L; **Li, Lei**; Hanson-Dorr, Katie; Liu, Liyua
 <img src="../../img/journal-article.png" height="20px"> 
 Guthmiller, Jenna J; Lan, Linda Yu-Ling; Fernández-Quintero, Monica L; Han, Julianna; Utset, Henry A; Bitar, Dalia J; Hamel, Natalie J; Stovicek, Olivia; **Li, Lei**; Tepora, Micah; 	*Polyreactive Broadly Neutralizing B cells Are Selected to Provide Defense against Pandemic Threat Influenza Viruses*	**_Immunity_**	2020 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33096040/)
 
-<img src="../../img/journal-article.png" height="20px"> 
-Lee, Dong-hun, Mary Lea Killian, Thomas J. Deliberto, Xiu-Feng Wan, **Li Lei**, David E. Swayne, and Mia Kim Torchetti. *H7N1 low pathogenicity avian influenza virus in poultry, United States, 2018* **_Avian Diseases_** 2020 [Avian Diseases](https://meridian.allenpress.com/avian-diseases/article-abstract/65/1/59/445119/H7N1-Low-Pathogenicity-Avian-Influenza-Viruses-in?redirectedFrom=fulltext)
 
 ## 2019 
 
