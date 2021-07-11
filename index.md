@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Lei Li - Postdoctoral scholar
-subtitle: Department of Medicine, University of Chicago
+title:  Lei Li - Senior Bioinformatics Analyst
+subtitle: Drukier Institute for Children's Health, Weill Cornell Medicine
 cover-img:
   - "./img/star.png"
 ---
@@ -14,7 +14,10 @@ cover-img:
 </style>
 
 ## PROFESSIONAL EXPERIENCE
-03/2019 – now 		<br>
+08/2021 – now 		<br>
+**Senior Bioinformatics Analyst**, Gale and Ira Drukier Institute for Children's Health, Weill Cornell Medicine	
+
+03/2019 – 08/2021 	<br>
 **Postdoctoral scholar**, Department of Medicine, University of Chicago	
 
 08/2015 – 08/2018 	<br>
