@@ -8,6 +8,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 \# equal contribution 
 
 ## 2021
+<img src="../../img/PRE-PRINT.png" height="20px"> 
+Siriruk Changrob, Yanbin Fu, Jenna Guthmiller, Peter Halfmann, **Lei Li**, Christopher Stamper, Haley Dugan, Molly Accola, William Rehrauer, Nai-Ying Zheng, Min Huang, Jiaolong Wang, Steven Erickson, Henry Utset, Hortencia Graves, Fatima Amanat, D Noah Sather, Florian Krammer, Yoshihiro Kawaoka, Patrick Wilson; *Cross neutralization of emerging SARS-CoV-2 variants of concern by antibodies targeting distinct epitopes on spike* **_ResearchSquare_** 2021 [Preprint](https://assets.researchsquare.com/files/rs-678247/v1/a3c7ee2f-64db-4cf6-9d57-41aae36cec6e.pdf?c=1626704791)
+
 <img src="../../img/journal-article.png" height="20px"> 
 **#Li, Lei**; #Dugan, Haley L; #Stamper, Christopher; Lan, Linda Yu-Ling; Asby, Nicholas; Knight, Matthew; Stovicek, Olivia; Zheng, Nai-Ying; Madariaga, Maria Lucia; Shanmugarajah, Kumaran; 	*Improved integration of single-cell transcriptome and surface protein expression by LinQ-View*	**_Cell Reports Methods_**	2021 [Cell Press](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00104-1)
 
