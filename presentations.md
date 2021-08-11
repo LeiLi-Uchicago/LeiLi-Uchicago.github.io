@@ -2,6 +2,7 @@
 layout: page
 title: Presentations
 ---
+<img src="../../img/conference.png" height="20px">**Lei Li**, Olivia Stovicek, Jenna J. Guthmiller, Siriruk Changrob, Yanbin Fu, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C. Wilson. “Librator, a platform for optimized sequence editing, design, and expression of influenza virus proteins”. **Oral** presentation at 2nd Annual CIVICs Network Meeting, New York, NY, Aug 9, 2021 
 
 <img src="../../img/conference.png" height="20px">**Lei Li**, Olivia Stovicek, Jenna J. Guthmiller, Siriruk Changrob, Yanbin Fu, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C. Wilson. “Librator, a platform for optimized sequence editing, design, and expression of influenza virus proteins”. **Oral** presentation at Sinai-Emory Multi-Institutional CIVIC (SEM-CIVIC) internal meeting. Online-meeting. March 2021 
 
