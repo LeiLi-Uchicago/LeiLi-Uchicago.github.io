@@ -69,3 +69,5 @@ Email: leil[at]uchicago.edu or leilioxford[at]gmail.com
 - [Librator](https://wilsonimmunologylab.github.io/Librator/): a platform for optimized sequence editing, design, and expression of influenza virus proteins.
 - [LinQ-View](https://wilsonimmunologylab.github.io/LinQView/) is a joint single cell analysis strategy that could integrate information from both transcriptome and surface protein markers for cell heterogeneity identification. 
 - [Cookie](https://wilsonimmunologylab.github.io/Cookie/): Selecting representative samples from single cell atlas using k-medoids clustering.
+
+[![Page Views Count](https://badges.toozhao.com/badges/01FCTPWJHBAA7H2Y0Z2MQ8B7PJ/green.svg)](https://badges.toozhao.com/stats/01FCTPWJHBAA7H2Y0Z2MQ8B7PJ "Get your own page views count badge on badges.toozhao.com")
