@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Lei Li - Senior Bioinformatics Analyst
-subtitle: Drukier Institute for Children's Health, Weill Cornell Medicine
+subtitle: Gale and Ira Drukier Institute for Children's Health, Weill Cornell Medicine
 cover-img:
   - "./img/star.png"
 ---
@@ -15,16 +15,16 @@ cover-img:
 
 ## PROFESSIONAL EXPERIENCE
 08/2021 – now 		<br>
-**Senior Bioinformatics Analyst**, Gale and Ira Drukier Institute for Children's Health, Weill Cornell Medicine	
+**Senior Bioinformatics Analyst**, Gale and Ira Drukier Institute for Children's Health, Weill Cornell Medicine
 
 03/2019 – 08/2021 	<br>
-**Postdoctoral scholar**, Department of Medicine, University of Chicago	
+**Postdoctoral scholar**, Department of Medicine, University of Chicago
 
 08/2015 – 08/2018 	<br>
-**Postdoctoral scholar**, College of Veterinary Medicine, Miss. State University
+**Postdoctoral scholar**, College of Veterinary Medicine, Missssippi State University
 
 04/2013 - 06/2014 	<br>
-**Visiting scholar**, Department of Botany, Miami University	 
+**Visiting scholar**, Department of Botany, Miami University
 
 09/2011 - 06/2015 	<br>
 **Ph.D. student**, Department of Automation, Xiamen University
@@ -55,12 +55,13 @@ _Automation_
 ## CONTACT
 
 ```
-924 E 57th St
-Chicago, IL 60637-1455 
+Weill Cornell Medicine - Belfer Research Building
+413 E 69th St
+New York, NY 10021
 USA
 
-Office: UChicago BSLC
-Email: leil[at]uchicago.edu or leilioxford[at]gmail.com
+Office: Suite BB-1200
+Email: lil4003[at]med.cornell.edu or leilioxford[at]gmail.com
 ```
 
 ## RECENT PROJECTS
