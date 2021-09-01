@@ -61,7 +61,7 @@ New York, NY 10021
 USA
 
 Office: Suite BB-1200
-Email: lil4003[at]med.cornell.edu or leilioxford[at]gmail.com
+Email: lel4003[at]med.cornell.edu or leilioxford[at]gmail.com
 ```
 
 ## RECENT PROJECTS
