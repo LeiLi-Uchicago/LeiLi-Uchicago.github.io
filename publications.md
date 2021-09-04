@@ -18,13 +18,13 @@ Siriruk Changrob, Yanbin Fu, Jenna Guthmiller, Peter Halfmann, **Lei Li**, Chris
 Guthmiller, Jenna J; Utset, Henry A; Henry, Carole; **Li, Lei**; Zheng, Nai-Ying; Sun, Weina; Vieira, Marcos C; Zost, Seth; Huang, Min; Hensley, Scott E; 	*An egg-derived sulfated N-Acetyllactosamine glycan is an antigenic decoy of influenza virus vaccines*	**_Mbio_**	12, no. 3 (2021): e00838-21. [ASM Journals](https://journals.asm.org/doi/full/10.1128/mBio.00838-21)
 
 <img src="../../img/journal-article.png" height="20px"> 
-#Dugan, Haley L; #Stamper, Christopher; **#Li, Lei**; Changrob, Siriruk; Asby, Nicholas; Halfmann, Peter; Zheng, Nai-Ying; Huang, Min; Shaw, Dustin G; Cobb, Mari; 	*Profiling B cell immunodominance after SARS-CoV-2 infection reveals antibody evolution to non-neutralizing viral targets*	**_Immunity_**	2021 [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1074761321001989)
+#Dugan, Haley L; #Stamper, Christopher; **#Li, Lei**; Changrob, Siriruk; Asby, Nicholas; Halfmann, Peter; Zheng, Nai-Ying; Huang, Min; Shaw, Dustin G; Cobb, Mari; 	*Profiling B cell immunodominance after SARS-CoV-2 infection reveals antibody evolution to non-neutralizing viral targets*	**_Immunity_** 54, no. 6 (2021): 1290-1303. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1074761321001989)
 
 <img src="../../img/PRE-PRINT.png" height="20px"> 
 **Lei Li**, Olivia Stovicek, Jenna J. Guthmiller, Siriruk Changrob, Yanbin Fu, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C Wilson; 	*Librator, a platform for optimized sequence editing, design, and expression of influenza virus proteins*	**_bioRxiv_**	2021 [Preprint→](https://www.biorxiv.org/content/10.1101/2021.04.29.441999v1)
 
 <img src="../../img/journal-article.png" height="20px"> 
-Guthmiller, Jenna J; Stovicek, Olivia; Wang, Jiaolong; Changrob, Siriruk; **Li, Lei**; Halfmann, Peter; Zheng, Nai-Ying; Utset, Henry; Stamper, Christopher T; Dugan, Haley L; 	*SARS-CoV-2 infection severity is linked to superior humoral immunity against the spike*	**_MBio_**	2021 [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32935099/)
+Guthmiller, Jenna J; Stovicek, Olivia; Wang, Jiaolong; Changrob, Siriruk; **Li, Lei**; Halfmann, Peter; Zheng, Nai-Ying; Utset, Henry; Stamper, Christopher T; Dugan, Haley L; 	*SARS-CoV-2 infection severity is linked to superior humoral immunity against the spike*	**_MBio_** 12, no. 1 (2021): e02940-20 [JSM](https://journals.asm.org/doi/full/10.1128/mBio.02940-20)
 
 <img src="../../img/journal-article.png" height="20px"> 
 Guthmiller, Jenna J; Han, Julianna; **Li, Lei**; Freyn, Alec W; Liu, Sean TH; Stovicek, Olivia; Stamper, Christopher; Dugan, Haley L; Tepora, Micah E; Bitar, Dalia J; 	*First exposure to the pandemic H1N1 virus induced broadly neutralizing antibodies targeting hemagglutinin head epitopes*	**_Science Translational Medicine_**	2021 Vol. 13, Issue 596, eabg4535. DOI: 10.1126/scitranslmed.abg4535 [Science Translational Medicine](https://stm.sciencemag.org/content/13/596/eabg4535)
