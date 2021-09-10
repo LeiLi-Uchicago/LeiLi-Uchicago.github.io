@@ -14,20 +14,25 @@ cover-img:
 </style>
 
 ## PROFESSIONAL EXPERIENCE
+<img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 08/2021 – now 		<br>
 **Senior Bioinformatics Analyst**, Gale and Ira Drukier Institute for Children's Health, Weill Cornell Medicine
 
+<img src="../../img/uchicago.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 03/2019 – 08/2021 	<br>
-**Postdoctoral scholar**, Department of Medicine, University of Chicago
+**Postdoctoral scholar**, Department of Medicine, University of Chicago	<br>&nbsp; &nbsp; 
 
+<img src="../../img/msu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 08/2015 – 08/2018 	<br>
 **Postdoctoral scholar**, College of Veterinary Medicine, Missssippi State University
 
+<img src="../../img/miami.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 04/2013 - 06/2014 	<br>
-**Visiting scholar**, Department of Botany, Miami University
+**Visiting scholar**, Department of Botany, Miami University	<br>&nbsp; &nbsp; 
 
+<img src="../../img/xmu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 09/2011 - 06/2015 	<br>
-**Ph.D. student**, Department of Automation, Xiamen University
+**Ph.D. student**, Department of Automation, Xiamen University	<br>&nbsp; &nbsp; 
 
 
 ## RESEARCH INTERESTS
@@ -40,17 +45,20 @@ cover-img:
 
 ## EDUCATION
 
+<img src="../../img/xmu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 Xiamen University , Xiamen, China , 2011 - 2015 <br>
 **Ph.D.** 
-_System Engineering/Bioinformatics_
+_System Engineering/Bioinformatics_	<br>&nbsp; &nbsp; 
 
+<img src="../../img/xjtu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 Xi’an Jiaotong University , Xi’an, China , 2009 - 2011 <br>
 **M.S.** 
-_Control Engineering/Natural Language Processing_
+_Control Engineering/Natural Language Processing_	<br>&nbsp; &nbsp; 
 
+<img src="../../img/xjtu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 Xi’an Jiaotong University , Xi’an, China , 2005 - 2009 <br>
 **B.S.** 
-_Automation_	
+_Automation_	<br> &nbsp; &nbsp; 
 
 ## CONTACT
 
