@@ -35,8 +35,6 @@ VGenes is an integrated graphical tool for efficient, comprehensive and multimod
 
 *Paper*:  In preparation
 
----
-
 ### Librator
 
 Librator is a platform for optimized sequence editing, design, and expression of influenza virus proteins. 
@@ -45,12 +43,11 @@ Librator is a platform for optimized sequence editing, design, and expression of
 
 *Paper*:  [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.04.29.441999v1)
 
-
+<!--
 <div class="web-container">
     <iframe src="https://wilsonimmunologylab.github.io/Librator/" height="500px" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
----
+</div>-->
 
 ### LinQ-View
 
@@ -58,13 +55,13 @@ LinQ-View is a single cell analysis strategy that could integrate RNA and ADT pr
 
 *Github page*: [LinQ-View](https://github.com/WilsonImmunologyLab/LinQView)
 
-*Paper*:  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3797273)
+*Paper*:  [Cell Press](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00104-1)
 
+<!--
 <div class="web-container">
     <iframe src="https://wilsonimmunologylab.github.io/LinQView/" height="500px" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
----
+</div>-->
 
 ### Cookie
 
@@ -74,10 +71,11 @@ Cookie: Selecting representative samples from single cell atlas using k-medoids 
 
 *Paper*:  In preparation 
 
+<!--
  <div class="web-container">
     <iframe src="https://wilsonimmunologylab.github.io/Cookie/" height="500px" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
+</div>-->
 
 ## Past projects
 
