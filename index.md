@@ -68,7 +68,7 @@ Weill Cornell Medicine - Belfer Research Building
 New York, NY 10021
 USA
 
-Office: Suite BB-1200
+Office: Suite BB-1299
 Email: lel4003[at]med.cornell.edu or leilioxford[at]gmail.com
 ```
 
