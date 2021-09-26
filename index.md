@@ -46,17 +46,17 @@ cover-img:
 ## EDUCATION
 
 <img src="../../img/xmu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-Xiamen University , Xiamen, China , 2011 - 2015 <br>
+Xiamen University, Xiamen, China, 2011 - 2015 <br>
 **Ph.D.** 
 _System Engineering/Bioinformatics_	<br>&nbsp; &nbsp; 
 
 <img src="../../img/xjtu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-Xi’an Jiaotong University , Xi’an, China , 2009 - 2011 <br>
+Xi’an Jiaotong University, Xi’an, China, 2009 - 2011 <br>
 **M.S.** 
 _Control Engineering/Natural Language Processing_	<br>&nbsp; &nbsp; 
 
 <img src="../../img/xjtu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-Xi’an Jiaotong University , Xi’an, China , 2005 - 2009 <br>
+Xi’an Jiaotong University, Xi’an, China, 2005 - 2009 <br>
 **B.S.** 
 _Automation_	<br> &nbsp; &nbsp; 
 
