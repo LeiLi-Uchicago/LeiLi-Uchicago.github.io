@@ -64,7 +64,7 @@ _Automation_	<br> &nbsp; &nbsp;
 
 ```
 Weill Cornell Medicine - Belfer Research Building
-413 E 69th St
+413 E 69th St, Room BB-1295
 New York, NY 10021
 USA
 
