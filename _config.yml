@@ -46,13 +46,11 @@ social-network-links:
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -61,6 +59,8 @@ social-network-links:
 #  mastodon: instance.url/@username
   ORCID: 0000-0002-8828-5199
   google-scholar: citations?user=3qt2VoAAAAAJ&hl=en
+  linkedin: lei-li-46713b78
+  telephone: +16626942218
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
