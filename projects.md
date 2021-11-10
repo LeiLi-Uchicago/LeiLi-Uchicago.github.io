@@ -31,7 +31,7 @@ title: Projects
 
 VGenes is an integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences 
 
-*Github page*: Under construction
+*Github page*: [VGenes](https://wilsonimmunologylab.github.io/VGenes/)
 
 *Paper*:  In preparation
 
