@@ -9,7 +9,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2021
 <img src="../../img/PRE-PRINT.png" height="20px"> 
-Siriruk Changrob, Yanbin Fu, Jenna Guthmiller, Peter Halfmann, **Lei Li**, Christopher Stamper, Haley Dugan, Molly Accola, William Rehrauer, Nai-Ying Zheng, Min Huang, Jiaolong Wang, Steven Erickson, Henry Utset, Hortencia Graves, Fatima Amanat, D Noah Sather, Florian Krammer, Yoshihiro Kawaoka, Patrick Wilson; *Cross neutralization of emerging SARS-CoV-2 variants of concern by antibodies targeting distinct epitopes on spike* **_mBio_** 2021 [Preprint](https://pubmed.ncbi.nlm.nih.gov/34312615/)
+Siriruk Changrob, Yanbin Fu, Jenna Guthmiller, Peter Halfmann, **Lei Li**, Christopher Stamper, Haley Dugan, Molly Accola, William Rehrauer, Nai-Ying Zheng, Min Huang, Jiaolong Wang, Steven Erickson, Henry Utset, Hortencia Graves, Fatima Amanat, D Noah Sather, Florian Krammer, Yoshihiro Kawaoka, Patrick Wilson; *Cross neutralization of emerging SARS-CoV-2 variants of concern by antibodies targeting distinct epitopes on spike* **_mBio_** 2021 [ASM Journals](https://journals.asm.org/doi/10.1128/mBio.02975-21)
 
 <img src="../../img/journal-article.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
 **#Li, Lei**; #Dugan, Haley L; #Stamper, Christopher; Lan, Linda Yu-Ling; Asby, Nicholas; Knight, Matthew; Stovicek, Olivia; Zheng, Nai-Ying; Madariaga, Maria Lucia; Shanmugarajah, Kumaran; 	*Improved integration of single-cell transcriptome and surface protein expression by LinQ-View*	**_Cell Reports Methods_**  1 (4), 100056 (2021) [Cell Press](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00104-1)
