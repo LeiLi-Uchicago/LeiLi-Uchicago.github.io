@@ -9,6 +9,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2021
 <img src="../../img/journal-article.png" height="20px"> 
+#Guthmiller, Jenna J; #Julianna Han, Henry A. Utset, **Lei Li**, Linda Yu-Ling Lan, Carole Henry, Christopher T. Stamper, Meagan McMahon, George O’Dell, Monica L. Fernández-Quintero, Alec W. Freyn, Fatima Amanat, Olivia Stovicek, Lauren Gentles, Sara T. Richey, Alba Torrents de la Peña, Victoria Rosado, Haley L. Dugan, Nai-Ying Zheng, Micah E. Tepora, Dalia J. Bitar, Siriruk Changrob, Shirin Strohmeier, Min Huang, Adolfo García-Sastre, Klaus R. Liedl, Jesse D. Bloom, Raffael Nachbagauer, Peter Palese, Florian Krammer, Lynda Coughlan, Andrew B. Ward & Patrick C. Wilson.	*Broadly neutralizing antibodies target a hemagglutinin anchor epitope*	**_Nature_** (2021) https://doi.org/10.1038/s41586-021-04356-8 [Nature](https://www.nature.com/articles/s41586-021-04356-8)
+
+<img src="../../img/journal-article.png" height="20px"> 
 Siriruk Changrob, Yanbin Fu, Jenna Guthmiller, Peter Halfmann, **Lei Li**, Christopher Stamper, Haley Dugan, Molly Accola, William Rehrauer, Nai-Ying Zheng, Min Huang, Jiaolong Wang, Steven Erickson, Henry Utset, Hortencia Graves, Fatima Amanat, D Noah Sather, Florian Krammer, Yoshihiro Kawaoka, Patrick Wilson; *Cross neutralization of emerging SARS-CoV-2 variants of concern by antibodies targeting distinct epitopes on spike* **_mBio_** 12, no. 6 (2021): e02975-21. [ASM Journals](https://journals.asm.org/doi/10.1128/mBio.02975-21)
 
 <img src="../../img/journal-article.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
@@ -34,9 +37,6 @@ Surette, Fionna A; Guthmiller, Jenna J; **Li, Lei**; Sturtz, Alexandria J; Vijay
 
 <img src="../../img/journal-article.png" height="20px"> 
 Lee, Dong-Hun, Mary Lea Killian, Thomas J. Deliberto, Xiu-Feng Wan, **Li Lei**, David E. Swayne, and Mia Kim Torchetti. *H7N1 Low Pathogenicity Avian Influenza Viruses in Poultry in the United States During 2018*. **_Avian Diseases_** 65, no. 1 (2021): 59-62. [Avian Diseases](https://meridian.allenpress.com/avian-diseases/article-abstract/65/1/59/445119/H7N1-Low-Pathogenicity-Avian-Influenza-Viruses-in)
-
-<img src="../../img/PRE-PRINT.png" height="20px"> 
-Guthmiller, Jenna J; Han, Julianna; Utset, Henry A; **Li, Lei**; Lan, Linda Yu-Ling; Henry, Carole; Stamper, Christopher T; Stovicek, Olivia; Gentles, Lauren; Dugan, Haley L; 	*A public broadly neutralizing antibody class targets a membrane-proximal anchor epitope of influenza virus hemagglutinin*	**_bioRxiv_**	2021 [Preprint→](https://www.biorxiv.org/content/10.1101/2021.02.25.432905v1.full)
 
 <img src="../../img/journal-article.png" height="20px"> 
 Vijay, Rahul; Guthmiller, Jenna J; Sturtz, Alexandria J; Crooks, Sequoia; Johnson, Jordan T; **Li, Lei**; Lan, Linda Yu-Ling; Pope, Rosemary L; Chen, Yani; Rogers, Kai J; 	*Hemolysis-associated phosphatidylserine exposure promotes polyclonal plasmablast differentiation*	**_Journal of Experimental Medicine_**	218, no. 6 (2021): e20202359. [JEM](https://rupress.org/jem/article/218/6/e20202359/211959/Hemolysis-associated-phosphatidylserine-exposure)
