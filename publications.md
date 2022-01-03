@@ -105,7 +105,7 @@ Huang, Guangzao; Yuan, Mingshun; Chen, Moliang; **Li, Lei**; You, Wenjie; Li, Ha
 <img src="../../img/journal-article.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
 **Li, Lei**; Ji, Guoli; Ye, Congting; Shu, Changlong; Zhang, Jie; Liang, Chun; 	*PlantOrDB: A genome-wide ortholog database for land plants and green algae*	**_BMC plant biology_**	15, no. 1 (2015): 1-11. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/26112452/)
 
-<img src="../../img/journal-article.png" height="20px"> 
+<img src="../../img/journal-article.png" height="20px">   <img src="../../img/ystar.png" height="20px"> 
 Ji, Guoli; **Li, Lei**; Li, Qingshun Q; Wu, Xiangdong; Fu, Jingyi; Chen, Gong; Wu, Xiaohui; 	*PASPA: a web server for mRNA poly (A) site predictions in plants and algae*	**_Bioinformatics_**	31, no. 10 (2015): 1671-1673. [Oxford Press](https://academic.oup.com/bioinformatics/article/31/10/1671/176975)
 
 <img src="../../img/journal-article.png" height="20px"> 
