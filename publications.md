@@ -9,7 +9,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2022
 <img src="../../img/journal-article.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
-**#Lei Li**, #Siriruk Changrob, #Yanbin Fu,Olivia Stovicek, Jenna J. Guthmiller, Joshua JC McGrath, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C Wilson; 	*Librator, a platform for optimized sequence editing, design, and expression of influenza virus proteins* **_Briefings in Bioinformatics_** (2022) In press [Preprint→](https://www.biorxiv.org/content/10.1101/2021.04.29.441999v1)
+**#Lei Li**, #Siriruk Changrob, #Yanbin Fu,Olivia Stovicek, Jenna J. Guthmiller, Joshua JC McGrath, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C Wilson; 	*Librator: a platform for the optimized analysis, design, and expression of mutable influenza viral antigens* **_Briefings in Bioinformatics_** (2022) In press [Oxford Press](https://doi.org/10.1093/bib/bbac028)
 
 ## 2021
 <img src="../../img/journal-article.png" height="20px"> 
