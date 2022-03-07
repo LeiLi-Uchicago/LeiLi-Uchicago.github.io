@@ -41,7 +41,7 @@ Librator is a platform for optimized sequence editing, design, and expression of
 <img src="../../img/Librator1.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
 
 *Github page*: [Librator](https://wilsonimmunologylab.github.io/Librator/)
-*Paper*:  [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.04.29.441999v1)
+*Paper*:  [Oxford Press](https://doi.org/10.1093/bib/bbac028)
 
 <!--
 <div class="web-container">
