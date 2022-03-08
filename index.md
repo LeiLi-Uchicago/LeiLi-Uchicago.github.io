@@ -37,7 +37,7 @@ cover-img:
 
 ## PROFESSIONAL EXPERIENCE
 <img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-08/2021 – now 		<br>
+08/2021 – Present 		<br>
 **Senior Bioinformatics Analyst**, Gale and Ira Drukier Institute for Children's Health, **Weill Cornell Medicine**
 
 <img src="../../img/uchicago.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
