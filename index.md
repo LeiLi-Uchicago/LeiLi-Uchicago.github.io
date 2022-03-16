@@ -1,9 +1,9 @@
 ---
 layout: page
 title:  Lei Li - Senior Bioinformatics Analyst
-subtitle: Gale and Ira Drukier Institute for Children's Health, Weill Cornell Medicine
+subtitle: Gale and Ira Drukier Institute for Children's Health <br> Weill Cornell Medicine
 cover-img:
-  - "./img/star.png"
+  - "./img/wcm.png"
 ---
 
 <style type="text/css">
