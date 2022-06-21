@@ -2,7 +2,9 @@
 layout: page
 title: Presentations
 ---
-<img src="../../img/conference.png" height="20px">**Lei Li**, Jiayi Sun, Jenna J. Guthmiller, Yanbin Fu, Siriruk Changrob, Joshua JC McGrath, Nai-Ying Zheng, Min Huang, Patrick C. Wilson. “Comprehensive and multimodal analyses of B cell and T cell receptor repertoire using VGenes, **Poster** presentation at 2nd Intercampus Immunology Symposium of Cornell University, New York, NY, Apr 19, 2022
+<img src="../../img/conference.png" height="20px">**Lei Li**, Jiayi Sun, Jenna J. Guthmiller, Yanbin Fu, Siriruk Changrob, Joshua JC McGrath, Nai-Ying Zheng, Min Huang, Patrick C. Wilson. “Comprehensive and multimodal analyses of B cell and T cell receptor repertoire using VGenes", **Oral** presentation at Pediatrics Research Day 2022, Weill Cornell Medicine, New York, NY, Jun 2, 2022
+
+<img src="../../img/conference.png" height="20px">**Lei Li**, Jiayi Sun, Jenna J. Guthmiller, Yanbin Fu, Siriruk Changrob, Joshua JC McGrath, Nai-Ying Zheng, Min Huang, Patrick C. Wilson. “Comprehensive and multimodal analyses of B cell and T cell receptor repertoire using VGenes", **Poster** presentation at 2nd Intercampus Immunology Symposium of Cornell University, New York, NY, Apr 19, 2022
 
 <img src="../../img/conference.png" height="20px">**Lei Li** “Bioinformatics in vaccine development against viral pathogens”. Invited by Dr. Chun Liang, **Oral** presentation at Choose Ohio First Seminar, Online-meeting. Feb 10, 2022 
 
