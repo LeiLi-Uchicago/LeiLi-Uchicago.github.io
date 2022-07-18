@@ -69,7 +69,7 @@ Cookie: Selecting representative samples from single cell atlas using k-medoids 
 <img src="../../img/Cookie.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
 
 *Github page*: [Cookie](https://wilsonimmunologylab.github.io/Cookie/)
-*Paper*:  In preparation 
+*Paper*:  [Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2022.954024/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Genetics&id=954024)
 
 <!--
  <div class="web-container">
