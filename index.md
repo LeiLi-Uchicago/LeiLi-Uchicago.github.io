@@ -37,7 +37,11 @@ cover-img:
 
 ## PROFESSIONAL EXPERIENCE
 <img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-08/2021 – Present 		<br>
+10/2022 – Present 		<br>
+**Assistant Professor of Bioinformatics Research in Pediatrics**, Gale and Ira Drukier Institute for Children's Health, **Weill Cornell Medicine**
+
+<img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+08/2021 – 10/2022 		<br>
 **Senior Bioinformatics Analyst**, Gale and Ira Drukier Institute for Children's Health, **Weill Cornell Medicine**
 
 <img src="../../img/uchicago.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
@@ -85,7 +89,7 @@ Weill Cornell Medicine - Belfer Research Building
 New York, NY 10021
 USA
 
-Office: Suite BB-1299
+Office: Suite BB-1295
 Email: lel4003[at]med.cornell.edu or leilioxford[at]gmail.com
 ```
 
