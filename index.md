@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Lei Li - Senior Bioinformatics Analyst
+title:  Lei Li - Assistant Professor of Bioinformatics Research in Pediatrics
 subtitle: Gale and Ira Drukier Institute for Children's Health <br> Weill Cornell Medicine
 cover-img:
   - "./img/wcm.png"
