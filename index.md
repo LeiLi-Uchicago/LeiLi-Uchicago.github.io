@@ -38,7 +38,7 @@ cover-img:
 ## PROFESSIONAL EXPERIENCE
 <img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 12/2022 – Present 		<br>
-**Senior Bioinformatics Scientist**, Center for Applied Bioinformatics, **St. Jude Children's Research Hospital**
+**Senior Bioinformatics Research Scientist**, Center for Applied Bioinformatics, **St. Jude Children's Research Hospital**
 
 <img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 10/2022 – 12/2022 		<br>
