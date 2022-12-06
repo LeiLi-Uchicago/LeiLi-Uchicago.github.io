@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Lei Li - Assistant Professor of Bioinformatics Research in Pediatrics
-subtitle: Gale and Ira Drukier Institute for Children's Health <br> Weill Cornell Medicine
+title:  Lei Li - Senior Bioinformatics Research Scientist
+subtitle: Center for Applied Bioinformatics, <br> St. Jude Children's Research Hospital
 cover-img:
   - "./img/sj.jpeg"
 ---
@@ -88,13 +88,12 @@ _Automation_	<br> &nbsp; &nbsp;
 ## CONTACT
 
 ```
-Weill Cornell Medicine - Belfer Research Building
-413 E 69th St, Room BB-1295
-New York, NY 10021
+Advanced Research Center - St. Jude Children's Research Hospital
+262 Danny Thomas Place
+Memphis, TN, 38105
 USA
 
-Office: Suite BB-1295
-Email: lel4003[at]med.cornell.edu or leilioxford[at]gmail.com
+Email: lei.li[at]stjude.org or leilioxford[at]gmail.com
 ```
 
 ## RECENT PROJECTS
