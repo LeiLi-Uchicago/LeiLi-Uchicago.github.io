@@ -2,6 +2,14 @@
 layout: page
 title: Presentations
 ---
+<img src="../../img/conference.png" height="20px">**Lei Li**. “Using Single-cell Multi-omics to Improve the Effectiveness, Efficiency and Economy in Immunology Study", **Oral** presentation at the Multi-omics Analysis Interest Group Meeting Thursday, St. Jude Children’s Research Hospital, Memphis, Jan 26, 2023
+
+<img src="../../img/conference.png" height="20px">**Lei Li**. “Understanding B cell dynamics using single-cell sequencing", Invited by Dr. Yong Cheng, **Oral** presentation at The Department of Hematology, St. Jude Children’s Research Hospital, Memphis, Sep 15, 2022
+
+<img src="../../img/conference.png" height="20px">**Lei Li**. “A hybrid demultiplexing strategy for single-cell populations that increases both recovery rate and accuracy", Invited by Dr. Yifei Xu, **Oral** presentation at Shandong University, China, Online-meeting, Sep 6, 2022
+
+<img src="../../img/conference.png" height="20px">**Lei Li**. “Understanding B cell dynamics using single-cell sequencing", Invited by Dr. Yiping Fan, **Oral** presentation at Center for Applied Bioinformatics, St. Jude Children’s Research Hospital, Memphis, Sep 2, 2022
+
 <img src="../../img/conference.png" height="20px">**Lei Li**, Jiayi Sun, Jenna J. Guthmiller, Yanbin Fu, Siriruk Changrob, Joshua JC McGrath, Nai-Ying Zheng, Min Huang, Patrick C. Wilson. “Comprehensive and multimodal analyses of B cell and T cell receptor repertoire using VGenes", **Oral** presentation at Pediatrics Research Day 2022, Weill Cornell Medicine, New York, NY, Jun 2, 2022
 
 <img src="../../img/conference.png" height="20px">**Lei Li**, Jiayi Sun, Jenna J. Guthmiller, Yanbin Fu, Siriruk Changrob, Joshua JC McGrath, Nai-Ying Zheng, Min Huang, Patrick C. Wilson. “Comprehensive and multimodal analyses of B cell and T cell receptor repertoire using VGenes", **Poster** presentation at 2nd Intercampus Immunology Symposium of Cornell University, New York, NY, Apr 19, 2022
