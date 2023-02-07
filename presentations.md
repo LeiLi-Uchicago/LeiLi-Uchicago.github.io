@@ -2,7 +2,7 @@
 layout: page
 title: Presentations
 ---
-<img src="../../img/conference.png" height="20px">**Lei Li**. “Using Single-cell Multi-omics to Improve the Effectiveness, Efficiency and Economy in Immunology Study", **Oral** presentation at the Multi-omics Analysis Interest Group Meeting Thursday, St. Jude Children’s Research Hospital, Memphis, Jan 26, 2023
+<img src="../../img/conference.png" height="20px">**Lei Li**. “Using Single-cell Multi-omics to Improve the Effectiveness, Efficiency and Economy in Immunology Study", **Oral** presentation at the Multi-omics Analysis Interest Group Meeting, co-hosted by Biostatistics department and CAB, St. Jude Children’s Research Hospital, Memphis, Jan 26, 2023
 
 <img src="../../img/conference.png" height="20px">**Lei Li**. “Understanding B cell dynamics using single-cell sequencing", Invited by Dr. Yong Cheng, **Oral** presentation at The Department of Hematology, St. Jude Children’s Research Hospital, Memphis, Sep 15, 2022
 
