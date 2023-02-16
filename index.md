@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Lei Li - Senior Bioinformatics Research Scientist
+title:  Lei Li - Lead Bioinformatics Research Scientist
 subtitle: Center for Applied Bioinformatics, <br> St. Jude Children's Research Hospital
 cover-img:
   - "./img/sj.jpeg"
@@ -37,7 +37,11 @@ cover-img:
 
 ## PROFESSIONAL EXPERIENCE
 <img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-12/2022 – Present 		<br>
+02/2023 – Present 		<br>
+**Lead Bioinformatics Research Scientist**, Center for Applied Bioinformatics, **St. Jude Children's Research Hospital**
+
+<img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+12/2022 – 02/2023 		<br>
 **Senior Bioinformatics Research Scientist**, Center for Applied Bioinformatics, **St. Jude Children's Research Hospital**
 
 <img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
