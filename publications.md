@@ -7,6 +7,11 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 \# equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="../../img/ystar.png" height="20px"> selected publication
 
+
+## 2023
+<img src="../../img/journal-article.png" height="20px"> 
+#Jenna Guthmiller, #Linda Yu-Ling Lan, **#Lei Li**, Carole Henry, Christopher Stamper, Henry Utset, Alec Freyn, Julianna Han, Olivia Stovicek, Jiaolong Wang, Nai-Ying Zheng, Min Huang, Haley Dugan, Micah Tepora, Xueyong Zhu, Yao-Qing Chen, Anna-Karin Palm, Dustin Shaw, Madhumanthi Loganathan, Benjamin Francis, Mia McNair, Philip Mead, Ian Wilson, Adolfo Garcia-Sastre, Raffael Nachbagauer, Peter Palese, Andrew Ward, Lynda Coughlan, Florian Krammer, Patrick Wilson. *B cell convergence to distinct broadly reactive epitopes following vaccination with chimeric influenza virus hemagglutinins* **_Pre-print_**(2023) [Research Square](https://assets.researchsquare.com/files/rs-2600472/v1/f47ebda1dc2bf835ef12ab60.pdf?c=1677565923)
+
 ## 2022
 <img src="../../img/journal-article.png" height="20px"> <img src="../../img/ystar.png" height="20px">
 **Lei Li**, Yu-Ling Lan, Lei Huang, Congting Ye, Jorge Andrade, and Patrick C Wilson. “Selecting representative samples from complex biological datasets using k-medoids clustering”. **_Frontiers in Genetics_** (2022) p. 1787. DOI: 10.3389/fgene.2022.954024 [Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2022.954024/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Genetics&id=954024)
