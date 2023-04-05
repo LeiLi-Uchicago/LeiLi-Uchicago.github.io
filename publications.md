@@ -9,7 +9,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 
 ## 2023
-<img src="../../img/PRE-PRINT.png" height="20px"> 
+<img src="../../img/PRE-PRINT.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
 **#Lei Li**, #Jiayi Sun, #Yanbin Fu, Siriruk Changrob, Joshua J.C. McGrath, Patrick Wilson. *A hybrid single-cell demultiplexing strategy that increases both cell recovery rate and calling accuracy* **_bioRxiv_** (2023) doi: https://doi.org/10.1101/2023.04.02.535299 [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.02.535299v1)
 
 <img src="../../img/journal-article.png" height="20px"> 
