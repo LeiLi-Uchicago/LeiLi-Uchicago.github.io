@@ -27,6 +27,14 @@ title: Projects
 
 </style>
 
+### Hydrid demultiplexing
+
+A hybrid single cell demultiplexing strategy that increases both cell recovery rate and calling accuracy 
+<img src="../../img/HTOreader.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
+
+*Github page*: [HTOreader](https://github.com/WilsonImmunologyLab/HTOreader)
+*Paper*:  [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.02.535299v1)
+
 ### VGenes
 
 VGenes is an integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences 
