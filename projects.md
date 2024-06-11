@@ -33,7 +33,7 @@ A hybrid single cell demultiplexing strategy that increases both cell recovery r
 <img src="../../img/HTOreader.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
 
 *Github page*: [HTOreader](https://github.com/WilsonImmunologyLab/HTOreader)
-*Paper*:  [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.02.535299v1)
+*Paper*:  [Oxford Press](https://academic.oup.com/bib/article/25/4/bbae254/7686601)
 
 ### VGenes
 
