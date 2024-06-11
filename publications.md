@@ -7,11 +7,11 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 \# equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="../../img/ystar.png" height="20px"> selected publication
 
+## 2024
+<img src="../../img/journal-article.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
+**#Lei Li**, #Jiayi Sun, #Yanbin Fu, Siriruk Changrob, Joshua J.C. McGrath, Patrick Wilson. *A hybrid demultiplexing strategy that improves performance and robustness of cell hashing* **_Briefings in Bioinformatics_** (2024) doi: https://doi.org/10.1093/bib/bbae254 [Oxford Press](https://academic.oup.com/bib/article/25/4/bbae254/7686601)
 
 ## 2023
-<img src="../../img/PRE-PRINT.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
-**#Lei Li**, #Jiayi Sun, #Yanbin Fu, Siriruk Changrob, Joshua J.C. McGrath, Patrick Wilson. *A hybrid single-cell demultiplexing strategy that increases both cell recovery rate and calling accuracy* **_bioRxiv_** (2023) doi: https://doi.org/10.1101/2023.04.02.535299 [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.02.535299v1)
-
 <img src="../../img/journal-article.png" height="20px"> 
 Meng Hu, Christina Kackos, Balaji Banoth, Chet Raj Ojha, Jeremy C. Jones, Shaohua Lei, **Lei Li**, Lisa Kercher, Richard J. Webby, Charles J. Russel. *Hemagglutinin destabilizationin H3N2 vaccine reference viruses skews antigenicity and prevents airborne transmission in ferrets* **_Science Advances_** (2023) [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adf5182)
 
