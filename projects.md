@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-## Ongoing projects
+## Recent projects
 
 ---
 
