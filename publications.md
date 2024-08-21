@@ -11,6 +11,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 <img src="../../img/journal-article.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
 **#Lei Li**, #Jiayi Sun, #Yanbin Fu, Siriruk Changrob, Joshua J.C. McGrath, Patrick Wilson. *A hybrid demultiplexing strategy that improves performance and robustness of cell hashing* **_Briefings in Bioinformatics_** (2024) doi: https://doi.org/10.1093/bib/bbae254 [Oxford Press](https://academic.oup.com/bib/article/25/4/bbae254/7686601)
 
+<img src="../../img/journal-article.png" height="20px"> 
+Kim, Y., Maltseva, N., Tesar, C., Jedrzejczak, R., Endres, M., Ma, H., Dugan, H.L., Stamper, C.T., Chang, C., **Li, L**. and Changrob, S. *Epitopes recognition of SARS-CoV-2 nucleocapsid RNA binding domain by human monoclonal antibodies.* **_Iscience_** (2024) [CellPress](https://www.cell.com/iscience/fulltext/S2589-0042(24)00197-4)
+
 ## 2023
 <img src="../../img/journal-article.png" height="20px"> 
 Meng Hu, Christina Kackos, Balaji Banoth, Chet Raj Ojha, Jeremy C. Jones, Shaohua Lei, **Lei Li**, Lisa Kercher, Richard J. Webby, Charles J. Russel. *Hemagglutinin destabilizationin H3N2 vaccine reference viruses skews antigenicity and prevents airborne transmission in ferrets* **_Science Advances_** (2023) [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adf5182)
