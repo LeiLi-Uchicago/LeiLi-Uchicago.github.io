@@ -2,6 +2,8 @@
 layout: page
 title: Presentations
 ---
+<img src="../../img/conference.png" height="20px">**Lei Li**. “Improving Data Interpretation For High Resolution Spatial Omics Using Computational Approaches", **Oral** Spatial Biology West Coast US 2024, San Diego, CA, December 5, 2024
+
 <img src="../../img/conference.png" height="20px">**Lei Li**. “Challenges and solutions in high resolution spatial-Omics", **Oral** Workshop at the Knowledge In Data Science 2024 (KIDS24) Meeting, hosted by St. Jude Children’s Research Hospital, Memphis, Sep 17, 2024
 
 <img src="../../img/conference.png" height="20px">**Lei Li**, Jiayi Sun, Yanbin Fu, Siriruk Changrob, Joshua J.C. McGrath, Patrick C. Wilson. “A hybrid demultiplexing strategy that improves performance and robustness of cell hashing", Invited by Dr. Yuping Wang, **Oral** presentation at Tulane University, New Orleans, LA, Online-meeting, Nov 29, 2023
