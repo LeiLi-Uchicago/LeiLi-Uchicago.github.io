@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Lei Li - Lead Bioinformatics Research Scientist
-subtitle: Center for Applied Bioinformatics, <br> St. Jude Children's Research Hospital
+subtitle: St. Jude Children's Research Hospital
 cover-img:
   - "./img/sj.jpeg"
 ---
@@ -38,31 +38,31 @@ cover-img:
 ## PROFESSIONAL EXPERIENCE
 <img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 02/2023 – Present 		<br>
-**Lead Bioinformatics Research Scientist**, Center for Applied Bioinformatics, **St. Jude Children's Research Hospital**
+**Lead Bioinformatics Research Scientist**, **St. Jude Children's Research Hospital**
 
 <img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 12/2022 – 02/2023 		<br>
-**Senior Bioinformatics Research Scientist**, Center for Applied Bioinformatics, **St. Jude Children's Research Hospital**
+**Senior Bioinformatics Research Scientist**, **St. Jude Children's Research Hospital**
 
 <img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 10/2022 – 12/2022 		<br>
-**Assistant Professor of Bioinformatics Research in Pediatrics**, Gale and Ira Drukier Institute for Children's Health, **Weill Cornell Medicine**
+**Assistant Professor of Bioinformatics Research in Pediatrics**, **Weill Cornell Medicine**
 
 <img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 08/2021 – 10/2022 		<br>
-**Senior Bioinformatics Analyst**, Gale and Ira Drukier Institute for Children's Health, **Weill Cornell Medicine**
+**Senior Bioinformatics Analyst**, **Weill Cornell Medicine**
 
 <img src="../../img/uchicago.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 03/2019 – 08/2021 	<br>
-**Postdoctoral scholar**, Department of Medicine, **University of Chicago**	<br>&nbsp; &nbsp; 
+**Postdoctoral scholar**, **University of Chicago**	<br>&nbsp; &nbsp; 
 
 <img src="../../img/msu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 08/2015 – 08/2018 	<br>
-**Postdoctoral scholar**, College of Veterinary Medicine, **Missssippi State University**
+**Postdoctoral scholar**, **Missssippi State University**
 
 <img src="../../img/miami.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 04/2013 - 06/2014 	<br>
-**Visiting scholar**, Department of Botany, **Miami University**	<br>&nbsp; &nbsp; 
+**Visiting scholar**, **Miami University**	<br>&nbsp; &nbsp; 
 
 ## RESEARCH INTERESTS
 - Computational methods of single cell sequencing data 
