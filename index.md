@@ -59,7 +59,7 @@ Weill Cornell Medicine
 <img src="../../img/uchicago.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 03/2019 – 08/2021 	<br>
 **Postdoctoral scholar**  <br>
-University of Chicago** 
+University of Chicago
 
 <img src="../../img/msu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 08/2015 – 08/2018 	<br>
@@ -69,7 +69,7 @@ Missssippi State University
 <img src="../../img/miami.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 04/2013 - 06/2014 	<br>
 **Visiting scholar**  <br>
-Miami University** 
+Miami University
 
 ## RESEARCH INTERESTS
 - Computational methods of single cell sequencing data 
@@ -82,19 +82,19 @@ Miami University**
 ## EDUCATION
 
 <img src="../../img/xmu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-**Xiamen University**, Xiamen, China, 2011 - 2015 <br>
-**Ph.D.** 
-_System Engineering/Bioinformatics_	<br>&nbsp; &nbsp; 
+**Xiamen University** <br> 
+Xiamen, China, 2011 - 2015 <br>
+**Ph.D.** _System Engineering/Bioinformatics_	
 
 <img src="../../img/xjtu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-**Xi’an Jiaotong University**, Xi’an, China, 2009 - 2011 <br>
-**M.S.** 
-_Control Engineering/Natural Language Processing_	<br>&nbsp; &nbsp; 
+**Xi’an Jiaotong University** <br>
+Xi’an, China, 2009 - 2011 <br>
+**M.S.** _Control Engineering/Natural Language Processing_	
 
 <img src="../../img/xjtu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-**Xi’an Jiaotong University**, Xi’an, China, 2005 - 2009 <br>
-**B.S.** 
-_Automation_	<br> &nbsp; &nbsp; 
+**Xi’an Jiaotong University** <br>
+Xi’an, China, 2005 - 2009 <br>
+**B.S.** _Automation_	
 
 ## CONTACT
 
