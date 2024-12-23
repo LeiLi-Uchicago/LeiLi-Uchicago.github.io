@@ -8,6 +8,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 \# equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="../../img/ystar.png" height="20px"> selected publication
 
 ## 2024
+<img src="../../img/journal-article.png" height="20px">
+Joshua J.C. McGrath, Juyeon Park, Chloe A. Troxell, Jordan C. Chervin, **Lei Li**, Johnathan R. Kent, Siriruk Changrob, Yanbin Fu, Min Huang, NaiYing Zheng, G. Dewey Wilbanks, Sean A. Nelson, Jiayi Sun, Giorgio Inghirami, Maria Lucia L. Madariaga, George Georgiou, Patrick C. Wilson *Mutability and hypermutation antagonize immunoglobulin codon optimality* **_Molecular Cell_** (2024) DOI: https://doi.org/10.1016/j.molcel.2024.11.033 [Elsevier Press](https://www.cell.com/molecular-cell/abstract/S1097-2765(24)00988-2)
+
 <img src="../../img/journal-article.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
 **#Lei Li**, #Jiayi Sun, #Yanbin Fu, Siriruk Changrob, Joshua J.C. McGrath, Patrick Wilson. *A hybrid demultiplexing strategy that improves performance and robustness of cell hashing* **_Briefings in Bioinformatics_** (2024) DOI: https://doi.org/10.1093/bib/bbae254 [Oxford Press](https://academic.oup.com/bib/article/25/4/bbae254/7686601)
 
