@@ -107,7 +107,7 @@ USA
 Email: lei.li[at]stjude.org or leilioxford[at]gmail.com
 ```
 
-## RECENT PROJECTS
+## PROJECTS
 <img src="../../img/RSV_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  An efficient workflow to screen clinically relevant genomic variations of RSV from NGS data <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 <img src="../../img/Spatial_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  Improving Data Interpretation for High Resolution Spatial Omics using computational approaches <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 <img src="../../img/Htoreader_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [HTOreader](https://github.com/WilsonImmunologyLab/HTOreader):  hybrid single cell demultiplexing strategy that increases both cell recovery rate and calling accuracy. <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
