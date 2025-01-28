@@ -26,14 +26,15 @@ title: Projects
 }
 
 </style>
-### Spatial Omics
+### Respiratory Syncytial Virus Genomics 
 Screen clinically relevant genomic variations of RSV from NGS data
 <img src="../../img/RSV.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
+</br>
 
 ### Spatial Omics
 Improving Data Interpretation for High Resolution Spatial Omics using computational approaches
 <img src="../../img/Spatial.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
-
+</br>
 
 ### Hydrid demultiplexing
 
