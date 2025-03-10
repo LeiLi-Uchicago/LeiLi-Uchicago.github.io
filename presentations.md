@@ -2,6 +2,8 @@
 layout: page
 title: Presentations
 ---
+<img src="../../img/conference.png" height="20px">**Lei Li**. “Computational Insights into Host-Microbe Interactions", Invited by Dr. Henry Wan, **Oral** presentation at University of Missouri, Columbia, MO, Mar 07, 2025
+
 <img src="../../img/conference.png" height="20px">**Lei Li**. “Improving Data Interpretation For High Resolution Spatial Omics Using Computational Approaches", **Oral** Spatial Biology West Coast US 2024, San Diego, CA, December 5, 2024
 
 <img src="../../img/conference.png" height="20px">**Lei Li**. “Challenges and solutions in high resolution spatial-Omics", **Oral** Workshop at the Knowledge In Data Science 2024 (KIDS24) Meeting, hosted by St. Jude Children’s Research Hospital, Memphis, Sep 17, 2024
