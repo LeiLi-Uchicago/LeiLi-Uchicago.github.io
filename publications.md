@@ -10,8 +10,12 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 
 ## 2025
+<img src="../../img/PRE-PRINT.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
+#Jenna Guthmiller, #Linda Yu-Ling Lan, **#Lei Li**, #Yanbin Fu, #Sean A. Nelson, Carole Henry, Christopher Stamper, Henry Utset, Alec Freyn, Julianna Han, Olivia Stovicek, Jiaolong Wang, Nai-Ying Zheng, Min Huang, Haley Dugan, Micah Tepora, Xueyong Zhu, Yao-Qing Chen, Anna-Karin Palm, Dustin Shaw, Madhumanthi Loganathan, Benjamin Francis, Mia McNair, Philip Mead, Ian Wilson, Adolfo Garcia-Sastre, Raffael Nachbagauer, Peter Palese, Andrew Ward, Lynda Coughlan, Florian Krammer, Patrick Wilson. *Long-lasting B cell convergence to distinct broadly reactive epitopes following vaccination with chimeric influenza virus hemagglutinins* **_Immunity_**(2025) DOI: https://doi.org/10.1016/j.immuni.2025.02.025 [Cell Press](https://www.sciencedirect.com/science/article/pii/S1074761325000925?dgcid=coauthor)
+
 <img src="../../img/journal-article.png" height="20px">
 Joshua J.C. McGrath, Juyeon Park, Chloe A. Troxell, Jordan C. Chervin, **Lei Li**, Johnathan R. Kent, Siriruk Changrob, Yanbin Fu, Min Huang, NaiYing Zheng, G. Dewey Wilbanks, Sean A. Nelson, Jiayi Sun, Giorgio Inghirami, Maria Lucia L. Madariaga, George Georgiou, Patrick C. Wilson. *Mutability and hypermutation antagonize immunoglobulin codon optimality* **_Molecular Cell_** (2025) 85 (2), 430-444. e6 DOI: https://doi.org/10.1016/j.molcel.2024.11.033 [Elsevier Press](https://www.cell.com/molecular-cell/abstract/S1097-2765(24)00988-2)
+
 
 ## 2024
 <img src="../../img/journal-article.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
@@ -23,9 +27,6 @@ Kim, Y., Maltseva, N., Tesar, C., Jedrzejczak, R., Endres, M., Ma, H., Dugan, H.
 ## 2023
 <img src="../../img/journal-article.png" height="20px"> 
 Meng Hu, Christina Kackos, Balaji Banoth, Chet Raj Ojha, Jeremy C. Jones, Shaohua Lei, **Lei Li**, Lisa Kercher, Richard J. Webby, Charles J. Russel. *Hemagglutinin destabilizationin H3N2 vaccine reference viruses skews antigenicity and prevents airborne transmission in ferrets* **_Science Advances_** (2023) [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adf5182)
-
-<img src="../../img/PRE-PRINT.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
-#Jenna Guthmiller, #Linda Yu-Ling Lan, **#Lei Li**, Carole Henry, Christopher Stamper, Henry Utset, Alec Freyn, Julianna Han, Olivia Stovicek, Jiaolong Wang, Nai-Ying Zheng, Min Huang, Haley Dugan, Micah Tepora, Xueyong Zhu, Yao-Qing Chen, Anna-Karin Palm, Dustin Shaw, Madhumanthi Loganathan, Benjamin Francis, Mia McNair, Philip Mead, Ian Wilson, Adolfo Garcia-Sastre, Raffael Nachbagauer, Peter Palese, Andrew Ward, Lynda Coughlan, Florian Krammer, Patrick Wilson. *B cell convergence to distinct broadly reactive epitopes following vaccination with chimeric influenza virus hemagglutinins* **_Pre-print_**(2023) [Research Square](https://assets.researchsquare.com/files/rs-2600472/v1/f47ebda1dc2bf835ef12ab60.pdf?c=1677565923)
 
 <img src="../../img/journal-article.png" height="20px"> 
 Siriruk Changrob, Peter J. Halfmann, Hejun Liu, Jonathan L. Torres, Joshua J.C. McGrath, Gabriel Ozorowski, **Lei Li**, G. Dewey Wilbanks, Makoto Kuroda, Tadashi Maemura, Min Huang, Nai-Ying Zheng, Hannah L. Turner, Steven A. Erickson, Yanbin Fu, Atsuhiro Yasuhara, Gagandeep Singh, Brian Monahan, Jacob Mauldin, Komal Srivastava, Viviana Simon, Florian Krammer, D. Noah Sather, Andrew B Ward, Ian A. Wilson, Yoshihiro Kawaoka, Patrick C. Wilson. *Site of vulnerability on SARS-CoV-2 spike induces broadly protective antibody to antigenically distinct Omicron subvariants* **_Journal of Clinical Investigation_** (2023) DOI: 10.1172/JCI166844 [JCI](https://doi.org/10.1172/JCI166844)
