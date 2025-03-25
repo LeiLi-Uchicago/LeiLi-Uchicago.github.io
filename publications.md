@@ -10,7 +10,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 
 ## 2025
-<img src="../../img/PRE-PRINT.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
+<img src="../../img/journal-article.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
 #Jenna Guthmiller, #Linda Yu-Ling Lan, **#Lei Li**, #Yanbin Fu, #Sean A. Nelson, Carole Henry, Christopher Stamper, Henry Utset, Alec Freyn, Julianna Han, Olivia Stovicek, Jiaolong Wang, Nai-Ying Zheng, Min Huang, Haley Dugan, Micah Tepora, Xueyong Zhu, Yao-Qing Chen, Anna-Karin Palm, Dustin Shaw, Madhumanthi Loganathan, Benjamin Francis, Mia McNair, Philip Mead, Ian Wilson, Adolfo Garcia-Sastre, Raffael Nachbagauer, Peter Palese, Andrew Ward, Lynda Coughlan, Florian Krammer, Patrick Wilson. *Long-lasting B cell convergence to distinct broadly reactive epitopes following vaccination with chimeric influenza virus hemagglutinins* **_Immunity_**(2025) DOI: https://doi.org/10.1016/j.immuni.2025.02.025 [Cell Press](https://www.sciencedirect.com/science/article/pii/S1074761325000925?dgcid=coauthor)
 
 <img src="../../img/journal-article.png" height="20px">
