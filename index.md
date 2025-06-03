@@ -108,7 +108,7 @@ Email: lei.li[at]stjude.org or leilioxford[at]gmail.com
 ```
 
 ## PROJECTS
-<img src="../../img/RSV_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  RSVrecon: An efficient workflow to screen clinically relevant genomic variations of RSV from NGS data <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
+<img src="../../img/RSV_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [RSVrecon](https://github.com/stjudecab/RSVreconPy): An efficient workflow to screen clinically relevant genomic variations of RSV from NGS data <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 <img src="../../img/Spatial_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  Improving Data Interpretation for High Resolution Spatial Omics using computational approaches <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 <img src="../../img/Htoreader_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [HTOreader](https://github.com/WilsonImmunologyLab/HTOreader):  hybrid single cell demultiplexing strategy that increases both cell recovery rate and calling accuracy. <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 <img src="../../img/vgenes.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [VGenes](https://wilsonimmunologylab.github.io/VGenes/): an integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
