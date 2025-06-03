@@ -14,6 +14,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 #Jenna Guthmiller, #Linda Yu-Ling Lan, **#Lei Li**, #Yanbin Fu, #Sean A. Nelson, Carole Henry, Christopher Stamper, Henry Utset, Alec Freyn, Julianna Han, Olivia Stovicek, Jiaolong Wang, Nai-Ying Zheng, Min Huang, Haley Dugan, Micah Tepora, Xueyong Zhu, Yao-Qing Chen, Anna-Karin Palm, Dustin Shaw, Madhumanthi Loganathan, Benjamin Francis, Mia McNair, Philip Mead, Ian Wilson, Adolfo Garcia-Sastre, Raffael Nachbagauer, Peter Palese, Andrew Ward, Lynda Coughlan, Florian Krammer, Patrick Wilson. *Long-lasting B cell convergence to distinct broadly reactive epitopes following vaccination with chimeric influenza virus hemagglutinins* **_Immunity_**(2025) DOI: https://doi.org/10.1016/j.immuni.2025.02.025 [Cell Press](https://www.sciencedirect.com/science/article/pii/S1074761325000925?dgcid=coauthor)
 
 <img src="../../img/journal-article.png" height="20px">
+Seiler, Patrick, Bryan S. Kaplan, David C. Brice, Susu Duan, **Lei Li**, Maureen A. McGargill, Natalie Lee et al. *Altered germinal center responses in mice vaccinated with highly pathogenic avian influenza A (H5N1) virus.* **_Vaccine_** 60 (2025): 127311. DOI: https://doi.org/10.1016/j.vaccine.2025.127311 [Elsevier Press](https://www.sciencedirect.com/science/article/pii/S0264410X25006085)
+
+<img src="../../img/journal-article.png" height="20px">
 Joshua J.C. McGrath, Juyeon Park, Chloe A. Troxell, Jordan C. Chervin, **Lei Li**, Johnathan R. Kent, Siriruk Changrob, Yanbin Fu, Min Huang, NaiYing Zheng, G. Dewey Wilbanks, Sean A. Nelson, Jiayi Sun, Giorgio Inghirami, Maria Lucia L. Madariaga, George Georgiou, Patrick C. Wilson. *Mutability and hypermutation antagonize immunoglobulin codon optimality* **_Molecular Cell_** (2025) 85 (2), 430-444. e6 DOI: https://doi.org/10.1016/j.molcel.2024.11.033 [Elsevier Press](https://www.cell.com/molecular-cell/abstract/S1097-2765(24)00988-2)
 
 
