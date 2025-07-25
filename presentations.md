@@ -12,8 +12,6 @@ title: Presentations
 
 <img src="../../img/conference.png" height="20px">**Lei Li**. “Using VGenes for an efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences", **Oral** tranining session at the Knowledge In Data Science 2023 (KIDS23) Meeting, hosted by St. Jude Children’s Research Hospital, Memphis, May 15, 2023
 
-<img src="../../img/conference.png" height="20px">**Lei Li**. “Using VGenes for an efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences", **Oral** tranining session at the Knowledge In Data Science 2023 (KIDS23) Meeting, hosted by St. Jude Children’s Research Hospital, Memphis, May 15, 2023
-
 <img src="../../img/conference.png" height="20px">**Lei Li**. “A hybrid demultiplexing strategy for single-cell populations that increases both recovery rate and accuracy", **Oral** presentation at the Knowledge In Data Science 2023 (KIDS23) Meeting, hosted by St. Jude Children’s Research Hospital, Memphis, May 15, 2023
 
 <img src="../../img/conference.png" height="20px">**Lei Li**. “Using Single-cell Multi-omics to Improve the Effectiveness, Efficiency and Economy in Immunology Study", **Oral** presentation at the Multi-omics Analysis Interest Group Meeting, co-hosted by Biostatistics department and CAB, St. Jude Children’s Research Hospital, Memphis, Jan 26, 2023
