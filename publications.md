@@ -10,6 +10,12 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 
 ## 2025
+<img src="../../img/PRE-PRINT.png" height="20px">
+Fu, Yanbin, Ziqi Feng, Steven A. Erickson, Peter J. Halfmann, **Lei Li**, Jordan C. Chervin, Chloe A. Troxell et al. *In Vivo Evolution of Monoclonal Antibody CR3022 to Achieve Cross-Neutralization of SARS-CoV-2 and Implications for Vaccine Strategies Against SARS-related Viruses.* bioRxiv (2025): 2025-08. DOI: 10.1101/2025.08.05.666673 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.05.666673v1)
+
+<img src="../../img/journal-article.png" height="20px">
+Changrob, Siriruk, Atsuhiro Yasuhara, Suncheol Park, Sandhya Bangaru, **Lei Li**, Chloe A. Troxell, Peter J. Halfmann et al. *Common cold embecovirus imprinting primes broadly neutralizing antibody responses to SARS-CoV-2 S2.* **_Journal of Experimental Medicine_** 222, no. 12 (2025): e20251146. DOI: 10.1084/jem.20251146 [Rockefeller University Press](https://rupress.org/jem/article/222/12/e20251146/278360/Common-cold-embecovirus-imprinting-primes-broadly)
+
 <img src="../../img/PRE-PRINT.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
 **#\*Li, Lei**, #Haidong Yi, Jessica N. Brazelton, Richard Webby, Randall T. Hayden, Gang Wu, and Diego R. Hijano. *Bridging Genomics and Clinical Medicine: RSVrecon Enhances RSV Surveillance with Automated Genotyping and Clinically-important Mutation Reporting.* bioRxiv (2025): 2025-06. DOI:https://doi.org/10.1101/2025.06.03.657184 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.03.657184v1)
 
