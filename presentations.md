@@ -2,6 +2,7 @@
 layout: page
 title: Presentations
 ---
+<img src="../../img/conference.png" height="20px">**Lei Li**, Haidong Yi, Jessica N. Brazelton, Richard Webby, Randall T. Hayden, Gang Wu, and Diego R. Hijano. “Bridging Genomics and Clinical Medicine: RSVrecon Enhances RSV Surveillance with Automated Genotyping and Clinically-important Mutation Reporting", **Poster** presentation at IDWeek25 Meeting, Atlanta, GA, Oct, 22, 2025
 <img src="../../img/conference.png" height="20px">**Lei Li**. “Computational Insights into Host-Microbe Interactions", Invited by Dr. Henry Wan, **Oral** presentation at University of Missouri, Columbia, MO, Mar 07, 2025
 
 <img src="../../img/conference.png" height="20px">**Lei Li**. “Improving Data Interpretation For High Resolution Spatial Omics Using Computational Approaches", **Oral** Spatial Biology West Coast US 2024, San Diego, CA, December 5, 2024
