@@ -117,4 +117,4 @@ Email: lei.li[at]stjude.org or leilioxford[at]gmail.com
 <img src="../../img/workflow.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [Cookie](https://wilsonimmunologylab.github.io/Cookie/): Selecting representative samples from single cell atlas using k-medoids clustering.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 
 [![Hits](https://hits.sh/leili-uchicago.github.io.svg?label=VISITORS)](https://hits.sh/leili-uchicago.github.io/)
-<!--[![Page Views Count](https://badges.toozhao.com/badges/01FCTPWJHBAA7H2Y0Z2MQ8B7PJ/green.svg)](https://badges.toozhao.com/stats/01FCTPWJHBAA7H2Y0Z2MQ8B7PJ "Get your own page views count badge on badges.toozhao.com")
+<!--[![Page Views Count](https://badges.toozhao.com/badges/01FCTPWJHBAA7H2Y0Z2MQ8B7PJ/green.svg)](https://badges.toozhao.com/stats/01FCTPWJHBAA7H2Y0Z2MQ8B7PJ "Get your own page views count badge on badges.toozhao.com") -->
