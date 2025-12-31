@@ -2,6 +2,8 @@
 layout: page
 title: Presentations
 ---
+<img src="../../img/conference.png" height="20px">**Lei Li**. “Long-lasting B cell convergence to distinct broadly reactive epitopes following vaccination with chimeric influenza virus hemagglutinins", **Oral** presentation at the Knowledge In Data Science 2025 (KIDS25) Meeting, hosted by St. Jude Children’s Research Hospital, Memphis, Oct 28, 2025
+
 <img src="../../img/conference.png" height="20px">**Lei Li**, Haidong Yi, Jessica N. Brazelton, Richard Webby, Randall T. Hayden, Gang Wu, and Diego R. Hijano. “Bridging Genomics and Clinical Medicine: RSVrecon Enhances RSV Surveillance with Automated Genotyping and Clinically-important Mutation Reporting", **Poster** presentation at IDWeek25 Meeting, Atlanta, GA, Oct, 22, 2025
 
 <img src="../../img/conference.png" height="20px">**Lei Li**. “Computational Insights into Host-Microbe Interactions", Invited by Dr. Henry Wan, **Oral** presentation at University of Missouri, Columbia, MO, Mar 07, 2025
