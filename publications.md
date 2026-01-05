@@ -9,15 +9,16 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 \* corresponding author
 
 
+## 2026
+<img src="../../img/journal-article.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
+**#\*Li, Lei**, #Haidong Yi, Jessica N. Brazelton, Richard Webby, Randall T. Hayden, Gang Wu, and Diego R. Hijano. *Bridging Genomics and Clinical Medicine: RSVrecon Enhances RSV Surveillance with Automated Genotyping and Clinically-important Mutation Reporting.* Influenza and Other Respiratory Viruses 20, no. 1 (2026): e70203,  [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/irv.70203)
+
 ## 2025
 <img src="../../img/PRE-PRINT.png" height="20px">
 Fu, Yanbin, Ziqi Feng, Steven A. Erickson, Peter J. Halfmann, **Lei Li**, Jordan C. Chervin, Chloe A. Troxell et al. *In Vivo Evolution of Monoclonal Antibody CR3022 to Achieve Cross-Neutralization of SARS-CoV-2 and Implications for Vaccine Strategies Against SARS-related Viruses.* bioRxiv (2025): 2025-08. DOI: 10.1101/2025.08.05.666673 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.05.666673v1)
 
 <img src="../../img/journal-article.png" height="20px">
 Changrob, Siriruk, Atsuhiro Yasuhara, Suncheol Park, Sandhya Bangaru, **Lei Li**, Chloe A. Troxell, Peter J. Halfmann et al. *Common cold embecovirus imprinting primes broadly neutralizing antibody responses to SARS-CoV-2 S2.* **_Journal of Experimental Medicine_** 222, no. 12 (2025): e20251146. DOI: 10.1084/jem.20251146 [Rockefeller University Press](https://rupress.org/jem/article/222/12/e20251146/278360/Common-cold-embecovirus-imprinting-primes-broadly)
-
-<img src="../../img/PRE-PRINT.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
-**#\*Li, Lei**, #Haidong Yi, Jessica N. Brazelton, Richard Webby, Randall T. Hayden, Gang Wu, and Diego R. Hijano. *Bridging Genomics and Clinical Medicine: RSVrecon Enhances RSV Surveillance with Automated Genotyping and Clinically-important Mutation Reporting.* bioRxiv (2025): 2025-06. DOI:https://doi.org/10.1101/2025.06.03.657184 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.03.657184v1)
 
 <img src="../../img/journal-article.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
 #Jenna Guthmiller, #Linda Yu-Ling Lan, **#Lei Li**, #Yanbin Fu, #Sean A. Nelson, Carole Henry, Christopher Stamper, Henry Utset, Alec Freyn, Julianna Han, Olivia Stovicek, Jiaolong Wang, Nai-Ying Zheng, Min Huang, Haley Dugan, Micah Tepora, Xueyong Zhu, Yao-Qing Chen, Anna-Karin Palm, Dustin Shaw, Madhumanthi Loganathan, Benjamin Francis, Mia McNair, Philip Mead, Ian Wilson, Adolfo Garcia-Sastre, Raffael Nachbagauer, Peter Palese, Andrew Ward, Lynda Coughlan, Florian Krammer, Patrick Wilson. *Long-lasting B cell convergence to distinct broadly reactive epitopes following vaccination with chimeric influenza virus hemagglutinins* **_Immunity_**(2025) DOI: https://doi.org/10.1016/j.immuni.2025.02.025 [Cell Press](https://www.sciencedirect.com/science/article/pii/S1074761325000925?dgcid=coauthor)
