@@ -32,8 +32,8 @@ title: Projects
 Screen clinically relevant genomic variations of RSV from NGS data
 <img src="../../img/RSV.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
 
-*Github page*: [RSVreconPy](https://github.com/stjudecab/RSVreconPy)
-*Paper*: [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.03.657184v2.abstract)
+*Github page*: [RSVreconPy](https://github.com/stjudecab/RSVreconPy) and [RSVrecon](https://github.com/stjudecab/RSVrecon)
+*Paper*: [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/irv.70203)
 
 ### Spatial Omics
 
