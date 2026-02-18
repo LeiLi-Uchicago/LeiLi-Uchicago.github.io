@@ -11,7 +11,11 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2026
 <img src="../../img/journal-article.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
-**#\*Li, Lei**, #Haidong Yi, Jessica N. Brazelton, Richard Webby, Randall T. Hayden, Gang Wu, and Diego R. Hijano. *Bridging Genomics and Clinical Medicine: RSVrecon Enhances RSV Surveillance with Automated Genotyping and Clinically-important Mutation Reporting.* Influenza and Other Respiratory Viruses 20, no. 1 (2026): e70203,  [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/irv.70203)
+**#\*Li, Lei**, #Haidong Yi, Jessica N. Brazelton, Richard Webby, Randall T. Hayden, Gang Wu, and Diego R. Hijano. *Bridging Genomics and Clinical Medicine: RSVrecon Enhances RSV Surveillance with Automated Genotyping and Clinically-important Mutation Reporting.* **_Influenza and Other Respiratory Viruses_** 20, no. 1 (2026): e70203,  [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/irv.70203)
+
+<img src="../../img/journal-article.png" height="20px"> 
+Te Ling, Lavanya Bezavada, Rashid Mehmood, Kevin Zhang, Anitria Cotton, Jeremy Chase Crawford, Hongjian Jin, Surbhi Sona, **Lei Li**, Yan Ju, Lei Han, Nana Liu, Tam Tran, Hieu Vu, Yan Jin, Jinbin Zhai, Shondra M Pruett-Miller, Senthil Velan Bhoopalan, Jian Xu, Min Ni, John D. Crispino "GATA1 N-terminus coordinates metabolic reprogramming in erythropoiesis." **_Blood_** (2026). [ASH](https://ashpublications.org/blood/article/doi/10.1182/blood.2025030464/566236/GATA1-N-terminus-coordinates-metabolic)
+
 
 ## 2025
 <img src="../../img/PRE-PRINT.png" height="20px">
