@@ -10,6 +10,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 
 ## 2026
+<img src="../../img/journal-article.png" height="20px"> 
+Jiayi Sun et al. "B cell imprinting in children impairs antibodies to the haemagglutinin stalk." **_Nature_** (2026). DOI:10.1038/s41586-026-10248-6 [Nature](https://www.nature.com/articles/s41586-026-10248-6)
+
 <img src="../../img/journal-article.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
 **#\*Li, Lei**, #Haidong Yi, Jessica N. Brazelton, Richard Webby, Randall T. Hayden, Gang Wu, and Diego R. Hijano. *Bridging Genomics and Clinical Medicine: RSVrecon Enhances RSV Surveillance with Automated Genotyping and Clinically-important Mutation Reporting.* **_Influenza and Other Respiratory Viruses_** 20, no. 1 (2026): e70203, DOI:10.1111/irv.70203 [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/irv.70203)
 
