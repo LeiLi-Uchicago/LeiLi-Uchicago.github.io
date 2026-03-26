@@ -11,6 +11,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2026
 <img src="../../img/journal-article.png" height="20px"> 
+Fu, Yanbin et al. "In vivo evolution of antibody CR3022 expands cross-neutralization of SARS-CoV-2 variants and informs pan-sarbecovirus immunity." **_Cell Reports_** 45, no. 4 (2026). DOI:10.1016/j.celrep.2026.117137 [Cell Press](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00215-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124726002159%3Fshowall%3Dtrue)
+
+<img src="../../img/journal-article.png" height="20px"> 
 Jiayi Sun et al. "B cell imprinting in children impairs antibodies to the haemagglutinin stalk." **_Nature_** (2026). DOI:10.1038/s41586-026-10248-6 [Nature](https://www.nature.com/articles/s41586-026-10248-6)
 
 <img src="../../img/journal-article.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
