@@ -30,6 +30,8 @@ title: Projects
 
 A high-resolution visualization tool for analyzing Respiratory Syncytial Virus (RSV) and human Influenza genetic diversity across lineages
 <img src="../../img/welcome_banner_rsvexplorer.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
+<img src="../../img/rsvexplorer_ui.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
+
 
 *Website*: [RSVExplorer (public user)](https://leilistjude.shinyapps.io/RSVExplorer/) \| [RSVExplorer (stjude user)](https://ibex.stjude.org/RSVExplorer/) <br> [FLUExplorer (public user)](https://leilistjude.shinyapps.io/FLUExplorer/) \| [FLUExplorer (stjude user)](https://ibex.stjude.org/FLUExplorer/) <br>
 
