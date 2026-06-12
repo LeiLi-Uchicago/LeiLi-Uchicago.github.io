@@ -13,7 +13,6 @@ cover-img:
 }
 
 
-
 .container, .container-lg, .container-md, .container-sm, .container-xl  {
     max-width: 1460px;
 }
@@ -105,11 +104,11 @@ Email: lei.li[at]stjude.org or leilioxford[at]gmail.com
 ## PROJECTS
 <img src="../../img/rsvexplorer.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [RVEAtlas](https://leili-uchicago.github.io/RVEAtlas/) a comprehensive platform that tracks amino acid variation and clade evolution across respiratory viruses <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 <img src="../../img/RSV_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [RSVrecon](https://github.com/stjudecab/RSVreconPy): An efficient workflow to screen clinically relevant genomic variations of RSV from NGS data <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
-<img src="../../img/Spatial_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  Improving Data Interpretation for High Resolution Spatial Omics using computational approaches <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
+<img src="../../img/Spatial_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  Improving Data Interpretation for High Resolution Spatial Omics using computational approaches <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 <img src="../../img/Htoreader_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [HTOreader](https://github.com/WilsonImmunologyLab/HTOreader):  hybrid single cell demultiplexing strategy that increases both cell recovery rate and calling accuracy. <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 <img src="../../img/vgenes.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [VGenes](https://wilsonimmunologylab.github.io/VGenes/): an integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 <img src="../../img/librator.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [Librator](https://wilsonimmunologylab.github.io/Librator/): a platform for optimized sequence editing, design, and expression of influenza virus proteins.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
-<img src="../../img/linklogo.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [LinQ-View](https://wilsonimmunologylab.github.io/LinQView/) is a joint single cell analysis strategy that could integrate information from both transcriptome and surface protein markers for cell heterogeneity identification. <br> &nbsp; &nbsp;  <br> 
+<img src="../../img/linklogo.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [LinQ-View](https://wilsonimmunologylab.github.io/LinQView/) is a joint single cell analysis strategy that could integrate information from both transcriptome and surface protein markers for cell heterogeneity identification. <br> &nbsp; &nbsp;  <br>  &nbsp; &nbsp; <br> 
 <img src="../../img/workflow.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [Cookie](https://wilsonimmunologylab.github.io/Cookie/): Selecting representative samples from single cell atlas using k-medoids clustering.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 
 [![Hits](https://hits.sh/leili-uchicago.github.io.svg?style=for-the-badge&label=VISITORS)](https://hits.sh/leili-uchicago.github.io/)

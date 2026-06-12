@@ -6,7 +6,9 @@ layout: null
 
 /* --- General --- */
 
-
+.container, .container-lg, .container-md, .container-sm, .container-xl  {
+    max-width: 1460px;
+}
 
 html {
   font-size: 100%
