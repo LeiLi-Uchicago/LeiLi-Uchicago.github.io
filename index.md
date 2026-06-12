@@ -12,11 +12,10 @@ cover-img:
   font-size: 3.125rem;
 }
 
-.container-md,
-.container-lg,
-.container-xl,
-.container {
-  max-width: 1460px;
+
+
+.container, .container-lg, .container-md, .container-sm, .container-xl  {
+    max-width: 1460px;
 }
 </style>
 
