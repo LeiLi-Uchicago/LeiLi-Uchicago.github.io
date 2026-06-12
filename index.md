@@ -11,6 +11,13 @@ cover-img:
   margin-top: 0;
   font-size: 3.125rem;
 }
+
+.container-md,
+.container-lg,
+.container-xl,
+.container {
+  max-width: 1260px;
+}
 </style>
 
 ## Activities
