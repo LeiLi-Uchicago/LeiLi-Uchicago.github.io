@@ -36,27 +36,27 @@ cover-img:
 </p>
 
 ## PROFESSIONAL EXPERIENCE
-<img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/StJude.jpeg" align="left" height="110px" width="110px" style="margin-right: 20px;"> 
 12/2022 – Present 		<br>
 **Senior Bioinformatics Research Scientist**  &rarr;  **Lead Bioinformatics Research Scientist**  <br>
 St. Jude Children's Research Hospital
 
-<img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/cornell.png" align="left" height="110px" width="110px" style="margin-right: 20px;"> 
 08/2021 – 12/2022 		<br>
 **Senior Bioinformatics Analyst** &rarr; **Assistant Professor of Bioinformatics Research in Pediatrics** <br>
 Weill Cornell Medicine
 
-<img src="../../img/uchicago.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/uchicago.png" align="left" height="110px" width="110px" style="margin-right: 20px;"> 
 03/2019 – 08/2021 	<br>
 **Postdoctoral scholar**  <br>
 University of Chicago
 
-<img src="../../img/msu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/msu.png" align="left" height="110px" width="110px" style="margin-right: 20px;"> 
 08/2015 – 08/2018 	<br>
 **Postdoctoral scholar**  <br>
 Missssippi State University
 
-<img src="../../img/miami.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/miami.png" align="left" height="110px" width="110px" style="margin-right: 20px;"> 
 04/2013 - 06/2014 	<br>
 **Visiting scholar**  <br>
 Miami University
@@ -70,17 +70,17 @@ Miami University
 
 ## EDUCATION
 
-<img src="../../img/xmu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/xmu.png" align="left" height="110px" width="110px" style="margin-right: 20px;"> 
 **Xiamen University** <br> 
 Xiamen, China, 2011 - 2015 <br>
 **Ph.D.** _System Engineering/Bioinformatics_	
 
-<img src="../../img/xjtu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/xjtu.png" align="left" height="110px" width="110px" style="margin-right: 20px;"> 
 **Xi’an Jiaotong University** <br>
 Xi’an, China, 2009 - 2011 <br>
 **M.S.** _Control Engineering/Natural Language Processing_	
 
-<img src="../../img/xjtu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/xjtu.png" align="left" height="110px" width="110px" style="margin-right: 20px;"> 
 **Xi’an Jiaotong University** <br>
 Xi’an, China, 2005 - 2009 <br>
 **B.S.** _Automation_	
