@@ -37,23 +37,13 @@ cover-img:
 
 ## PROFESSIONAL EXPERIENCE
 <img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-02/2023 – Present 		<br>
-**Lead Bioinformatics Research Scientist**  <br>
-St. Jude Children's Research Hospital
-
-<img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-12/2022 – 02/2023 		<br>
-**Senior Bioinformatics Research Scientist**  <br>
+12/2022 – Present 		<br>
+**Senior Bioinformatics Research Scientist**  &rarr;  **Lead Bioinformatics Research Scientist**  <br>
 St. Jude Children's Research Hospital
 
 <img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-10/2022 – 12/2022 		<br>
-**Assistant Professor of Bioinformatics Research in Pediatrics**  <br>
-Weill Cornell Medicine
-
-<img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-08/2021 – 10/2022 		<br>
-**Senior Bioinformatics Analyst**  <br>
+08/2021 – 12/2022 		<br>
+**Senior Bioinformatics Analyst** &rarr; **Assistant Professor of Bioinformatics Research in Pediatrics** <br>
 Weill Cornell Medicine
 
 <img src="../../img/uchicago.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
@@ -72,11 +62,10 @@ Missssippi State University
 Miami University
 
 ## RESEARCH INTERESTS
-- Computational methods of single cell sequencing data 
-- Single cell sequencing data interpretation and visualization
-- Genetics and Evolution methods and their application
-- Biological/medical data interpretation and visualization
-- Bio-statistical methods and their application
+- **Single-cell Multi-Omics** appaoaches, including demultiplexing, clustering, multimodal integration, and immune-repertoire profiling.
+- **Spatial omics** approaches for studying tissue organization, cellular interactions, and disease-associated microenvironments.
+- **Cancer biology**, with emphasis on understanding pediatric cancer origins and progression using single-cell, spatial, and multi-omics approaches.
+- **Evolutionary genetics**, viral adaptation, and B-cell antibody responses, with applications to vaccination, antigen design, and respiratory viral infections.
 
 
 ## EDUCATION
