@@ -16,7 +16,7 @@ cover-img:
 .container-lg,
 .container-xl,
 .container {
-  max-width: 1260px;
+  max-width: 1360px;
 }
 </style>
 
