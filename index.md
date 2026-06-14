@@ -42,27 +42,27 @@ cover-img:
 
 ## PROFESSIONAL EXPERIENCE
 <img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-12/2022 – Present 		<br>
+2022 – Present 		<br>
 **Senior Bioinformatics Research Scientist**  &rarr;  **Lead Bioinformatics Research Scientist**  <br>
 St. Jude Children's Research Hospital
 
 <img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-08/2021 – 12/2022 		<br>
+2021 – 2022 		<br>
 **Senior Bioinformatics Analyst** &rarr; **Assistant Professor of Bioinformatics Research in Pediatrics** <br>
 Weill Cornell Medicine
 
 <img src="../../img/uchicago.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-03/2019 – 08/2021 	<br>
+2019 – 2021 	<br>
 **Postdoctoral scholar**  <br>
 University of Chicago
 
 <img src="../../img/msu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-08/2015 – 08/2018 	<br>
+2015 – 2018 	<br>
 **Postdoctoral scholar**  <br>
 Missssippi State University
 
 <img src="../../img/miami.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-04/2013 - 06/2014 	<br>
+2013 - 2014 	<br>
 **Visiting scholar**  <br>
 Miami University
 
