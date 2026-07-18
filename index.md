@@ -3,7 +3,7 @@ layout: page
 title:  Lei Li - Lead Bioinformatics Research Scientist
 subtitle: St. Jude Children's Research Hospital
 cover-img:
-  - "./img/sj.jpeg"
+  - "./img/cover.png"
 ---
 
 <style type="text/css">
