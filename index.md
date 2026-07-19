@@ -116,7 +116,9 @@ cover-img:
 }
 </style>
 
+<!--
 ## Activities
+
 
 <p>
  <a class="twitter-timeline"
@@ -137,6 +139,8 @@ cover-img:
 						}(document, "script", "twitter-wjs");
  </script>
 </p>
+
+-->
 
 ## PROFESSIONAL EXPERIENCE
 
