@@ -5,109 +5,178 @@ title: Projects
 
 ## Recent projects
 
----
+Software tools and research platforms I have built for immunology, virology, and single-cell / spatial genomics. Click a project to explore its website, code, or publication.
 
 <style type="text/css">
-.web-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 35px;
-    height: 0;
-    overflow: hidden;
-    border-style: inset;
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 22px;
+    margin: 30px 0 10px;
 }
-
-.web-container iframe {
-    position: absolute;
-    top:0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+.project-card {
+    display: flex;
+    gap: 16px;
+    padding: 18px;
+    border: 1px solid rgba(0, 0, 0, 0.09);
+    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
-
+.project-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.10);
+}
+.project-icon {
+    flex: 0 0 76px;
+    width: 76px;
+    height: 76px;
+    object-fit: contain;
+    border-radius: 14px;
+}
+.project-body {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+.project-body h3 {
+    margin: 2px 0 6px;
+    font-size: 1.18rem;
+    line-height: 1.2;
+}
+.project-body p {
+    margin: 0 0 12px;
+    font-size: 0.92rem;
+    line-height: 1.45;
+    color: #555;
+}
+.project-links {
+    margin-top: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.project-links a {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 3px 11px;
+    border-radius: 999px;
+    background: rgba(0, 123, 255, 0.10);
+    color: #0a66c2;
+    white-space: nowrap;
+}
+.project-links a:hover {
+    background: rgba(0, 123, 255, 0.20);
+    text-decoration: none;
+}
+.project-links .tag-muted {
+    background: rgba(0, 0, 0, 0.06);
+    color: #777;
+    font-weight: 500;
+}
 </style>
-### RVEAtlas
 
-A comprehansive platform that tracks amino acid variation and clade evolution across respiratory viruses (RSV, FLU, COVID and more)
-<img src="../../img/rvea1.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
-<img src="../../img/rvea2.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
+<div class="project-grid" markdown="0">
 
+  <div class="project-card">
+    <img class="project-icon" src="/img/project/RVEAtlas_icon_transparent.png" alt="RVEAtlas logo">
+    <div class="project-body">
+      <h3>RVEAtlas</h3>
+      <p>A comprehensive platform that tracks amino acid variation and clade evolution across respiratory viruses (RSV, influenza, SARS-CoV-2, and more).</p>
+      <div class="project-links">
+        <a href="https://leili-uchicago.github.io/RVEAtlas/">Website</a>
+      </div>
+    </div>
+  </div>
 
-*Website*: [RVEAtlas](https://leili-uchicago.github.io/RVEAtlas/)  <br>
+  <div class="project-card">
+    <img class="project-icon" src="/img/project/RSVrecon_icon_transparent.png" alt="RSVrecon logo">
+    <div class="project-body">
+      <h3>RSV Genomics</h3>
+      <p>Screening clinically relevant genomic variations of respiratory syncytial virus (RSV) directly from NGS data.</p>
+      <div class="project-links">
+        <a href="https://github.com/stjudecab/RSVreconPy">RSVreconPy</a>
+        <a href="https://github.com/stjudecab/RSVrecon">RSVrecon</a>
+        <a href="https://onlinelibrary.wiley.com/doi/10.1111/irv.70203">Paper</a>
+      </div>
+    </div>
+  </div>
 
-### Respiratory Syncytial Virus Genomics 
+  <div class="project-card">
+    <img class="project-icon" src="/img/Spatial_icon.png" alt="Spatial Omics logo">
+    <div class="project-body">
+      <h3>Spatial Omics</h3>
+      <p>Improving data interpretation for high-resolution spatial omics using computational approaches.</p>
+      <div class="project-links">
+        <a class="tag-muted" href="#">Code — in prep</a>
+        <a class="tag-muted" href="#">Paper — in prep</a>
+      </div>
+    </div>
+  </div>
 
-Screen clinically relevant genomic variations of RSV from NGS data
-<img src="../../img/RSV.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
+  <div class="project-card">
+    <img class="project-icon" src="/img/project/HTOreader_icon_transparent.png" alt="HTOreader logo">
+    <div class="project-body">
+      <h3>HTOreader</h3>
+      <p>A hybrid single-cell demultiplexing strategy that increases both cell recovery rate and calling accuracy.</p>
+      <div class="project-links">
+        <a href="https://github.com/WilsonImmunologyLab/HTOreader">GitHub</a>
+        <a href="https://academic.oup.com/bib/article/25/4/bbae254/7686601">Paper</a>
+      </div>
+    </div>
+  </div>
 
-*Github page*: [RSVreconPy](https://github.com/stjudecab/RSVreconPy) and [RSVrecon](https://github.com/stjudecab/RSVrecon)
-*Paper*: [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/irv.70203)
+  <div class="project-card">
+    <img class="project-icon" src="/img/project/VGenes_icon_transparent.png" alt="VGenes logo">
+    <div class="project-body">
+      <h3>VGenes</h3>
+      <p>An integrated graphical tool for efficient, comprehensive, and multimodal analysis of massive B-cell repertoire sequences.</p>
+      <div class="project-links">
+        <a href="https://wilsonimmunologylab.github.io/VGenes/">Website</a>
+        <a class="tag-muted" href="#">Paper — in prep</a>
+      </div>
+    </div>
+  </div>
 
-### Spatial Omics
+  <div class="project-card">
+    <img class="project-icon" src="/img/project/Librator_icon_transparent.png" alt="Librator logo">
+    <div class="project-body">
+      <h3>Librator</h3>
+      <p>A platform for optimized sequence editing, design, and expression of influenza virus proteins.</p>
+      <div class="project-links">
+        <a href="https://wilsonimmunologylab.github.io/Librator/">Website</a>
+        <a href="https://doi.org/10.1093/bib/bbac028">Paper</a>
+      </div>
+    </div>
+  </div>
 
-Improving Data Interpretation for High Resolution Spatial Omics using computational approaches
-<img src="../../img/Spatial.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
+  <div class="project-card">
+    <img class="project-icon" src="/img/project/LinQ-View_icon_transparent.png" alt="LinQ-View logo">
+    <div class="project-body">
+      <h3>LinQ-View</h3>
+      <p>A single-cell analysis strategy that integrates RNA and ADT profiles for cell heterogeneity identification.</p>
+      <div class="project-links">
+        <a href="https://github.com/WilsonImmunologyLab/LinQView">GitHub</a>
+        <a href="https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00104-1">Paper</a>
+      </div>
+    </div>
+  </div>
 
-*Github page*: In preparation
-*Paper*:  In preparation
+  <div class="project-card">
+    <img class="project-icon" src="/img/project/Cookie_icon_transparent.png" alt="Cookie logo">
+    <div class="project-body">
+      <h3>Cookie</h3>
+      <p>Selecting representative samples from a single-cell atlas using k-medoids clustering.</p>
+      <div class="project-links">
+        <a href="https://wilsonimmunologylab.github.io/Cookie/">Website</a>
+        <a href="https://www.frontiersin.org/articles/10.3389/fgene.2022.954024/full">Paper</a>
+      </div>
+    </div>
+  </div>
 
-### Hydrid demultiplexing
-
-A hybrid single cell demultiplexing strategy that increases both cell recovery rate and calling accuracy 
-<img src="../../img/HTOreader.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
-
-*Github page*: [HTOreader](https://github.com/WilsonImmunologyLab/HTOreader)
-*Paper*:  [Oxford Press](https://academic.oup.com/bib/article/25/4/bbae254/7686601)
-
-### VGenes
-
-VGenes is an integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences 
-<img src="../../img/VGene.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
-
-*Github page*: [VGenes](https://wilsonimmunologylab.github.io/VGenes/)
-*Paper*:  In preparation
-
-### Librator
-
-Librator is a platform for optimized sequence editing, design, and expression of influenza virus proteins. 
-<img src="../../img/Librator1.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
-
-*Github page*: [Librator](https://wilsonimmunologylab.github.io/Librator/)
-*Paper*:  [Oxford Press](https://doi.org/10.1093/bib/bbac028)
-
-<!--
-<div class="web-container">
-    <iframe src="https://wilsonimmunologylab.github.io/Librator/" height="500px" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>-->
-
-### LinQ-View
-
-LinQ-View is a single cell analysis strategy that could integrate RNA and ADT profiles for cell heterogeneity identification.
-<img src="../../img/LinQView.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
-
-*Github page*: [LinQ-View](https://github.com/WilsonImmunologyLab/LinQView)
-*Paper*:  [Cell Press](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00104-1)
-
-<!--
-<div class="web-container">
-    <iframe src="https://wilsonimmunologylab.github.io/LinQView/" height="500px" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>-->
-
-### Cookie
-
-Cookie: Selecting representative samples from single cell atlas using k-medoids clustering.
-<img src="../../img/Cookie.png" align="left" height="auto" width="auto" style="margin-right: 20px;"> 
-
-*Github page*: [Cookie](https://wilsonimmunologylab.github.io/Cookie/)
-*Paper*:  [Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2022.954024/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Genetics&id=954024)
-
-<!--
- <div class="web-container">
-    <iframe src="https://wilsonimmunologylab.github.io/Cookie/" height="500px" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>-->
+</div>
 
 ## Past projects
 
