@@ -142,6 +142,81 @@ cover-img:
 
 -->
 
+## ACTIVITIES
+
+
+<style>
+.activity-item {
+  margin-bottom: 18px;
+}
+
+.activity-title-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 2px;
+}
+
+.activity-badge {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #6f7f90;
+  background: #f2f5f8;
+  border-radius: 4px;
+  padding: 2px 6px;
+  flex: 0 0 auto;
+}
+
+.activity-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.activity-title a {
+  text-decoration: none;
+}
+
+.activity-meta {
+  margin-left: 48px;
+  font-size: 0.78rem;
+  color: #888;
+}
+
+.activity-meta a {
+  margin-left: 10px;
+  font-size: 0.78rem;
+  text-decoration: none;
+}
+</style>
+
+{% assign thoughts = site.categories.thoughts %}
+
+{% for post in thoughts limit:3 %}
+<div class="activity-item">
+
+  <div class="activity-title-row">
+    <span class="activity-badge">Post</span>
+
+    <div class="activity-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </div>
+  </div>
+
+  <div class="activity-meta">
+    {{ post.date | date: "%B %-d, %Y" }}
+    <a href="{{ post.url | relative_url }}">Read more →</a>
+  </div>
+
+</div>
+{% endfor %}
+
+
 ## PROFESSIONAL EXPERIENCE
 
 <div class="cv-list">
