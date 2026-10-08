@@ -317,9 +317,7 @@ Email: lei.li[at]stjude.org or leilioxford[at]gmail.com
 <img class="project-logo" src="../../img/project/PROS_icon_transparent.png" alt="PROS logo">
 <div class="project-body" markdown="1">
 ### [PROS](https://github.com/LeiLi-Uchicago/PROS)
-A Python package for selecting diversity-preserving subsets from large datasets through partitioned oversampling and global refinement, with optional covering-radius certification.
-
-[PyPI](https://pypi.org/project/pros-sketch/)
+A Python package for selecting diversity-preserving subsets from large datasets through partitioned oversampling and global refinement.
 </div>
 </div>
 
