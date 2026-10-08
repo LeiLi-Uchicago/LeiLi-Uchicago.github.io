@@ -314,6 +314,16 @@ Email: lei.li[at]stjude.org or leilioxford[at]gmail.com
 <div class="project-list" markdown="1">
 
 <div class="project" markdown="1">
+<img class="project-logo" src="../../img/project/PROS_icon_transparent.png" alt="PROS logo">
+<div class="project-body" markdown="1">
+### [PROS](https://github.com/LeiLi-Uchicago/PROS)
+A Python package for selecting diversity-preserving subsets from large datasets through partitioned oversampling and global refinement, with optional covering-radius certification.
+
+[PyPI](https://pypi.org/project/pros-sketch/)
+</div>
+</div>
+
+<div class="project" markdown="1">
 <img class="project-logo" src="../../img/project/RVEAtlas_icon.png" alt="RVEAtlas logo">
 <div class="project-body" markdown="1">
 ### [RVEAtlas](https://leili-uchicago.github.io/RVEAtlas/)

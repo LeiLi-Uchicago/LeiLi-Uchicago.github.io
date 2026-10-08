@@ -81,6 +81,18 @@ Software tools and research platforms I have built for immunology, virology, and
 <div class="project-grid" markdown="0">
 
   <div class="project-card">
+    <img class="project-icon" src="/img/project/PROS_icon_transparent.png" alt="PROS logo">
+    <div class="project-body">
+      <h3>PROS</h3>
+      <p>Partitioned and Refined Oversampling Sketches: a Python package for selecting diversity-preserving subsets from large feature matrices, including single-cell embeddings, with optional covering-radius certification.</p>
+      <div class="project-links">
+        <a href="https://github.com/LeiLi-Uchicago/PROS">GitHub</a>
+        <a href="https://pypi.org/project/pros-sketch/">PyPI</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="project-card">
     <img class="project-icon" src="/img/project/RVEAtlas_icon_transparent.png" alt="RVEAtlas logo">
     <div class="project-body">
       <h3>RVEAtlas</h3>
@@ -212,6 +224,3 @@ Software tools and research platforms I have built for immunology, virology, and
 - Ji, Guoli; **Li, Lei**; Li, Qingshun Q; Wu, Xiangdong; Fu, Jingyi; Chen, Gong; Wu, Xiaohui;   *PASPA: a web server for mRNA poly (A) site predictions in plants and algae*    **_Bioinformatics_**    2015 [Oxford Press](https://academic.oup.com/bioinformatics/article/31/10/1671/176975)
 - Ye, Congting; Ji, Guoli; **Li, Lei**; Liang, Chun;    *detectIR: a novel program for detecting perfect and imperfect inverted repeats using complex numbers and vector calculation*   **_PloS one_**  2014 [PLoS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113349)
 - Shi, Jieming; Dong, Min; **Li, Lei**; Liu, Lin; Luz-Madrigal, Agustin; Tsonis, Panagiotis A; Del Rio-Tsonis, Katia; Liang, Chun;  *mirPRo–a novel standalone program for differential expression and variation analysis of miRNAs*    **_Scientific reports_**    2015 [Scientific Reports](https://www.nature.com/articles/srep14617)
-
-
-
